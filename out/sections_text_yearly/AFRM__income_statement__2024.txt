@@ -1,0 +1,19 @@
+AFRM — Income Statement — Fiscal Year: 2024
+-------------------------------------------
+ - Operating Expenses: -2407430000 USD
+ - Revenue: 2322999000 USD
+ - Gross Profit: 1978746000 USD
+ - Selling, General & Administrative: -1101696000 USD
+ - Net Income (Common): -517757000 USD
+ - Net Income: -517757000 USD
+ - Income (Loss) from Continuing Operations: -517757000 USD
+ - Pretax Income (Loss): -515527000 USD
+ - Operating Income (Loss): -428684000 USD
+ - Cost of Revenue: -344253000 USD
+ - Pretax Income (Loss), Adj.: -328364000 USD
+ - Shares (Diluted): 309857129 USD
+ - Shares (Basic): 309857129 USD
+ - Abnormal Gains (Losses): -187163000 USD
+ - Non-Operating Income (Loss): 100320000 USD
+ - Income Tax (Expense) Benefit, Net: -2230000 USD
+ - SimFinId: 1242005 USD

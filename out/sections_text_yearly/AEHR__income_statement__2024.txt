@@ -1,0 +1,20 @@
+AEHR — Income Statement — Fiscal Year: 2024
+-------------------------------------------
+ - Revenue: 66218000 USD
+ - Cost of Revenue: -33675000 USD
+ - Net Income (Common): 33156000 USD
+ - Income (Loss) from Continuing Operations: 33156000 USD
+ - Net Income: 33156000 USD
+ - Gross Profit: 32543000 USD
+ - Shares (Diluted): 29617000 USD
+ - Shares (Basic): 28818000 USD
+ - Operating Expenses: -22465000 USD
+ - Income Tax (Expense) Benefit, Net: 20698000 USD
+ - Selling, General & Administrative: -13746000 USD
+ - Pretax Income (Loss): 12458000 USD
+ - Pretax Income (Loss), Adj.: 12458000 USD
+ - Operating Income (Loss): 10078000 USD
+ - Research & Development: -8719000 USD
+ - Interest Expense, Net: 2388000 USD
+ - Non-Operating Income (Loss): 2380000 USD
+ - SimFinId: 178053 USD

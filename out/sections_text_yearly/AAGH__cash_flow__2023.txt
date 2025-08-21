@@ -1,0 +1,16 @@
+AAGH — Cash Flow — Fiscal Year: 2023
+------------------------------------
+ - Shares (Basic): 21093402806 USD
+ - Shares (Diluted): 21093402806 USD
+ - SimFinId: 12444287 USD
+ - Net Income/Starting Line: -777340 USD
+ - Cash from (Repayment of) Debt: 548753 USD
+ - Net Cash from Financing Activities: 426235 USD
+ - Net Cash from Operating Activities: -389809 USD
+ - Change in Working Capital: 366606 USD
+ - Change in Fixed Assets & Intangibles: -44420 USD
+ - Net Cash from Investing Activities: -44420 USD
+ - Cash from (Repurchase of) Equity: 26200 USD
+ - Non-Cash Items: 10579 USD
+ - Depreciation & Amortization: 10346 USD
+ - Net Change in Cash: -7994 USD

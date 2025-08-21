@@ -1,0 +1,21 @@
+ADP — Income Statement — Fiscal Year: 2023
+------------------------------------------
+ - Revenue: 18012200000 USD
+ - Gross Profit: 9354800000 USD
+ - Cost of Revenue: -8657400000 USD
+ - Operating Expenses: -4847400000 USD
+ - Operating Income (Loss): 4507400000 USD
+ - Pretax Income (Loss), Adj.: 4437600000 USD
+ - Pretax Income (Loss): 4437600000 USD
+ - Selling, General & Administrative: -3551400000 USD
+ - Net Income (Common): 3412000000 USD
+ - Income (Loss) from Continuing Operations: 3412000000 USD
+ - Net Income: 3412000000 USD
+ - Income Tax (Expense) Benefit, Net: -1025600000 USD
+ - Research & Development: -844800000 USD
+ - Depreciation & Amortization: -451200000 USD
+ - Shares (Diluted): 415700000 USD
+ - Shares (Basic): 413700000 USD
+ - Interest Expense, Net: -253300000 USD
+ - Non-Operating Income (Loss): -69800000 USD
+ - SimFinId: 591496 USD

@@ -1,0 +1,16 @@
+AEHR — Cash Flow — Fiscal Year: 2024
+------------------------------------
+ - Net Income/Starting Line: 33156000 USD
+ - Shares (Diluted): 29617000 USD
+ - Shares (Basic): 28818000 USD
+ - Net Change in Cash: 19105000 USD
+ - Net Change in Long Term Investment: 18000000 USD
+ - Non-Cash Items: -17679000 USD
+ - Net Cash from Investing Activities: 17251000 USD
+ - Change in Working Capital: -14378000 USD
+ - Net Cash from Operating Activities: 1756000 USD
+ - Cash from (Repurchase of) Equity: 1735000 USD
+ - Change in Fixed Assets & Intangibles: -749000 USD
+ - Depreciation & Amortization: 657000 USD
+ - SimFinId: 178053 USD
+ - Net Cash from Financing Activities: 139000 USD

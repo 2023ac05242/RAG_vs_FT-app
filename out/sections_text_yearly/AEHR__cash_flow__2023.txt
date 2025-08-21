@@ -1,0 +1,16 @@
+AEHR — Cash Flow — Fiscal Year: 2023
+------------------------------------
+ - Shares (Diluted): 29215000 USD
+ - Shares (Basic): 27785000 USD
+ - Net Cash from Investing Activities: -18656000 USD
+ - Net Change in Long Term Investment: -17294000 USD
+ - Net Income/Starting Line: 14557000 USD
+ - Net Cash from Operating Activities: 10011000 USD
+ - Cash from (Repurchase of) Equity: 9382000 USD
+ - Change in Working Capital: -7841000 USD
+ - Net Cash from Financing Activities: 7322000 USD
+ - Non-Cash Items: 2845000 USD
+ - Change in Fixed Assets & Intangibles: -1362000 USD
+ - Net Change in Cash: -1360000 USD
+ - Depreciation & Amortization: 450000 USD
+ - SimFinId: 178053 USD

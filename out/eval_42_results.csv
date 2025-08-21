@@ -1,0 +1,33 @@
+system,label,query,ticker,year,metric,ground_truth,answer,confidence,time_s,correct
+RAG,relevant-high,What was ADP's Total Assets in 2024?,ADP,2024.0,total assets,$54.36 billion,$54.36 billion,0.98,1.456,True
+FineTuned,relevant-high,What was ADP's Total Assets in 2024?,ADP,2024.0,total assets,$54.36 billion,$63.51 billion,0.49999999999999994,0.032,False
+RAG,relevant-high,What was ADP's Total Assets in 2023?,ADP,2023.0,total assets,$50.97 billion,$50.97 billion,0.98,1.304,True
+FineTuned,relevant-high,What was ADP's Total Assets in 2023?,ADP,2023.0,total assets,$50.97 billion,$52.14 billion,0.8,0.05,False
+RAG,relevant-high,What was ADP's Total Liabilities in 2024?,ADP,2024.0,total liabilities,$49.82 billion,$49.82 billion,0.98,1.258,True
+FineTuned,relevant-high,What was ADP's Total Liabilities in 2024?,ADP,2024.0,total liabilities,$49.82 billion,$53.14 billion,0.8,0.048,False
+RAG,relevant-high,What was ADP's Total Liabilities in 2023?,ADP,2023.0,total liabilities,$47.46 billion,$47.46 billion,0.98,1.308,True
+FineTuned,relevant-high,What was ADP's Total Liabilities in 2023?,ADP,2023.0,total liabilities,$47.46 billion,$44.31 billion,0.8,0.039,False
+RAG,relevant-high,What was ADP's Revenue in 2024?,ADP,2024.0,revenue,$19.20 billion,$19.20 billion,0.98,1.129,True
+FineTuned,relevant-high,What was ADP's Revenue in 2024?,ADP,2024.0,revenue,$19.20 billion,$19.51 billion,0.8,0.025,True
+RAG,relevant-high,What was ADP's Revenue in 2023?,ADP,2023.0,revenue,$18.01 billion,$18.01 billion,0.98,1.116,True
+FineTuned,relevant-high,What was ADP's Revenue in 2023?,ADP,2023.0,revenue,$18.01 billion,$17.21 billion,0.8,0.031,False
+RAG,relevant-low,What was AAGH's Gross Profit in 2023?,AAGH,2023.0,gross profit,$168.59 thousand,$168.59 thousand,0.83,1.152,True
+FineTuned,relevant-low,What was AAGH's Gross Profit in 2023?,AAGH,2023.0,gross profit,$168.59 thousand,-$21.20 million,0.49999999999999994,0.032,False
+RAG,relevant-low,What was AAGH's Gross Profit in 2024?,AAGH,2024.0,gross profit,$169.75 thousand,$169.75 thousand,0.83,0.969,True
+FineTuned,relevant-low,What was AAGH's Gross Profit in 2024?,AAGH,2024.0,gross profit,$169.75 thousand,-$31.71 million,0.49999999999999994,0.041,False
+RAG,relevant-low,What was AAGH's Revenue in 2023?,AAGH,2023.0,revenue,$204.31 thousand,$204.31 thousand,0.83,1.207,True
+FineTuned,relevant-low,What was AAGH's Revenue in 2023?,AAGH,2023.0,revenue,$204.31 thousand,-$17.03 million,0.49999999999999994,0.029,False
+RAG,relevant-low,What was AAGH's Revenue in 2024?,AAGH,2024.0,revenue,$294.67 thousand,$294.67 thousand,0.83,1.002,True
+FineTuned,relevant-low,What was AAGH's Revenue in 2024?,AAGH,2024.0,revenue,$294.67 thousand,-$30.97 million,0.49999999999999994,0.031,False
+RAG,relevant-low,What was AAGH's Total Assets in 2023?,AAGH,2023.0,total assets,$299.13 thousand,$299.13 thousand,0.83,1.193,True
+FineTuned,relevant-low,What was AAGH's Total Assets in 2023?,AAGH,2023.0,total assets,$299.13 thousand,-$11.19 million,0.49999999999999994,0.033,False
+RAG,relevant-low,What was AAGH's Total Assets in 2024?,AAGH,2024.0,total assets,$323.48 thousand,$323.48 thousand,0.83,1.089,True
+FineTuned,relevant-low,What was AAGH's Total Assets in 2024?,AAGH,2024.0,total assets,$323.48 thousand,-$13.88 million,0.49999999999999994,0.032,False
+RAG,irrelevant,What is the capital of France?,,,,-,Data not in scope,0.0,0.0,False
+FineTuned,irrelevant,What is the capital of France?,,,,-,Not applicable,0.0,0.0,False
+RAG,irrelevant,Tell me a joke about penguins.,,,,-,Data not in scope,0.0,0.0,False
+FineTuned,irrelevant,Tell me a joke about penguins.,,,,-,Not applicable,0.0,0.0,False
+RAG,irrelevant,How do I bake sourdough bread?,,,,-,Data not in scope,0.0,0.0,False
+FineTuned,irrelevant,How do I bake sourdough bread?,,,,-,Not applicable,0.0,0.0,False
+RAG,irrelevant,What's the weather like on Mars?,,,,-,Data not in scope,0.0,0.0,False
+FineTuned,irrelevant,What's the weather like on Mars?,,,,-,Not applicable,0.0,0.0,False

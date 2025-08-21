@@ -1,0 +1,21 @@
+AEHR — Balance Sheet — Fiscal Year: 2023
+----------------------------------------
+ - Share Capital & Additional Paid-In Capital: 128061000 USD
+ - Total Assets: 98143000 USD
+ - Total Liabilities & Equity: 98143000 USD
+ - Total Current Assets: 89030000 USD
+ - Total Equity: 75600000 USD
+ - Retained Earnings: -52306000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 47907000 USD
+ - Shares (Diluted): 29215000 USD
+ - Shares (Basic): 27785000 USD
+ - Inventories: 23908000 USD
+ - Total Liabilities: 22543000 USD
+ - Accounts & Notes Receivable: 16594000 USD
+ - Total Current Liabilities: 16308000 USD
+ - Payables & Accruals: 13349000 USD
+ - Total Noncurrent Assets: 9113000 USD
+ - Other Long Term Assets: 6354000 USD
+ - Total Noncurrent Liabilities: 6235000 USD
+ - Property, Plant & Equipment, Net: 2759000 USD
+ - SimFinId: 178053 USD

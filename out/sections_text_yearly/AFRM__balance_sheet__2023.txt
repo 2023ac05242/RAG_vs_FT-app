@@ -1,0 +1,22 @@
+AFRM — Balance Sheet — Fiscal Year: 2023
+----------------------------------------
+ - Total Assets: 8155615000 USD
+ - Total Liabilities & Equity: 8155615000 USD
+ - Total Noncurrent Assets: 5726388000 USD
+ - Total Liabilities: 5621432000 USD
+ - Total Noncurrent Liabilities: 5344597000 USD
+ - Long Term Debt: 5344597000 USD
+ - Share Capital & Additional Paid-In Capital: 5140853000 USD
+ - Long Term Investments & Receivables: 4402962000 USD
+ - Retained Earnings: -2591247000 USD
+ - Total Equity: 2534183000 USD
+ - Total Current Assets: 2429227000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 2066680000 USD
+ - Other Long Term Assets: 1033291000 USD
+ - Shares (Basic): 295343466 USD
+ - Shares (Diluted): 295343466 USD
+ - Property, Plant & Equipment, Net: 290135000 USD
+ - Total Current Liabilities: 276835000 USD
+ - Payables & Accruals: 222983000 USD
+ - Accounts & Notes Receivable: -5446000 USD
+ - SimFinId: 1242005 USD

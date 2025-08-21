@@ -1,0 +1,20 @@
+AEHR — Income Statement — Fiscal Year: 2023
+-------------------------------------------
+ - Revenue: 64961000 USD
+ - Gross Profit: 32746000 USD
+ - Cost of Revenue: -32215000 USD
+ - Shares (Diluted): 29215000 USD
+ - Shares (Basic): 27785000 USD
+ - Operating Expenses: -19371000 USD
+ - Pretax Income (Loss): 14617000 USD
+ - Pretax Income (Loss), Adj.: 14617000 USD
+ - Net Income (Common): 14557000 USD
+ - Income (Loss) from Continuing Operations: 14557000 USD
+ - Net Income: 14557000 USD
+ - Operating Income (Loss): 13375000 USD
+ - Selling, General & Administrative: -12237000 USD
+ - Research & Development: -7134000 USD
+ - Interest Expense, Net: 1245000 USD
+ - Non-Operating Income (Loss): 1242000 USD
+ - SimFinId: 178053 USD
+ - Income Tax (Expense) Benefit, Net: -60000 USD

@@ -1,0 +1,419 @@
+company,ticker,statement,fiscal_year,line_item,value,unit
+AAGH,AAGH,balance_sheet,2023,"Cash, Cash Equivalents & Short Term Investments",54150.0,USD
+AAGH,AAGH,balance_sheet,2023,Inventories,108351.0,USD
+AAGH,AAGH,balance_sheet,2023,Long Term Debt,1524788.0,USD
+AAGH,AAGH,balance_sheet,2023,Other Long Term Assets,53754.0,USD
+AAGH,AAGH,balance_sheet,2023,Payables & Accruals,1640999.0,USD
+AAGH,AAGH,balance_sheet,2023,"Property, Plant & Equipment, Net",57692.0,USD
+AAGH,AAGH,balance_sheet,2023,Retained Earnings,-9028110.0,USD
+AAGH,AAGH,balance_sheet,2023,Share Capital & Additional Paid-In Capital,4732477.0,USD
+AAGH,AAGH,balance_sheet,2023,Shares (Basic),21093402806.0,USD
+AAGH,AAGH,balance_sheet,2023,Shares (Diluted),21093402806.0,USD
+AAGH,AAGH,balance_sheet,2023,Short Term Debt,727003.0,USD
+AAGH,AAGH,balance_sheet,2023,SimFinId,12444287.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Assets,299129.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Current Assets,187683.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Current Liabilities,2903393.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Equity,-4370836.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Liabilities,4669965.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Liabilities & Equity,299129.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Noncurrent Assets,111446.0,USD
+AAGH,AAGH,balance_sheet,2023,Total Noncurrent Liabilities,1766572.0,USD
+AAGH,AAGH,balance_sheet,2024,Accounts & Notes Receivable,55100.0,USD
+AAGH,AAGH,balance_sheet,2024,"Cash, Cash Equivalents & Short Term Investments",54943.0,USD
+AAGH,AAGH,balance_sheet,2024,Inventories,83141.0,USD
+AAGH,AAGH,balance_sheet,2024,Long Term Debt,1833577.0,USD
+AAGH,AAGH,balance_sheet,2024,Other Long Term Assets,55096.0,USD
+AAGH,AAGH,balance_sheet,2024,Payables & Accruals,1555945.0,USD
+AAGH,AAGH,balance_sheet,2024,"Property, Plant & Equipment, Net",42903.0,USD
+AAGH,AAGH,balance_sheet,2024,Retained Earnings,-10248681.0,USD
+AAGH,AAGH,balance_sheet,2024,Share Capital & Additional Paid-In Capital,5019059.0,USD
+AAGH,AAGH,balance_sheet,2024,Shares (Basic),21123253567.0,USD
+AAGH,AAGH,balance_sheet,2024,Shares (Diluted),21123253567.0,USD
+AAGH,AAGH,balance_sheet,2024,Short Term Debt,606978.0,USD
+AAGH,AAGH,balance_sheet,2024,SimFinId,12444287.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Assets,323478.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Current Assets,225479.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Current Liabilities,3593468.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Equity,-5311599.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Liabilities,5635077.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Liabilities & Equity,323478.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Noncurrent Assets,97999.0,USD
+AAGH,AAGH,balance_sheet,2024,Total Noncurrent Liabilities,2041609.0,USD
+AAGH,AAGH,cash_flow,2023,Cash from (Repayment of) Debt,548753.0,USD
+AAGH,AAGH,cash_flow,2023,Cash from (Repurchase of) Equity,26200.0,USD
+AAGH,AAGH,cash_flow,2023,Change in Fixed Assets & Intangibles,-44420.0,USD
+AAGH,AAGH,cash_flow,2023,Change in Working Capital,366606.0,USD
+AAGH,AAGH,cash_flow,2023,Depreciation & Amortization,10346.0,USD
+AAGH,AAGH,cash_flow,2023,Net Cash from Financing Activities,426235.0,USD
+AAGH,AAGH,cash_flow,2023,Net Cash from Investing Activities,-44420.0,USD
+AAGH,AAGH,cash_flow,2023,Net Cash from Operating Activities,-389809.0,USD
+AAGH,AAGH,cash_flow,2023,Net Change in Cash,-7994.0,USD
+AAGH,AAGH,cash_flow,2023,Net Income/Starting Line,-777340.0,USD
+AAGH,AAGH,cash_flow,2023,Non-Cash Items,10579.0,USD
+AAGH,AAGH,cash_flow,2023,Shares (Basic),21093402806.0,USD
+AAGH,AAGH,cash_flow,2023,Shares (Diluted),21093402806.0,USD
+AAGH,AAGH,cash_flow,2023,SimFinId,12444287.0,USD
+AAGH,AAGH,cash_flow,2024,Cash from (Repayment of) Debt,-190869.0,USD
+AAGH,AAGH,cash_flow,2024,Cash from (Repurchase of) Equity,115000.0,USD
+AAGH,AAGH,cash_flow,2024,Change in Working Capital,495402.0,USD
+AAGH,AAGH,cash_flow,2024,Depreciation & Amortization,14789.0,USD
+AAGH,AAGH,cash_flow,2024,Net Cash from Financing Activities,617403.0,USD
+AAGH,AAGH,cash_flow,2024,Net Cash from Operating Activities,-615627.0,USD
+AAGH,AAGH,cash_flow,2024,Net Change in Cash,1776.0,USD
+AAGH,AAGH,cash_flow,2024,Net Income/Starting Line,-1226362.0,USD
+AAGH,AAGH,cash_flow,2024,Non-Cash Items,100544.0,USD
+AAGH,AAGH,cash_flow,2024,Shares (Basic),21123253567.0,USD
+AAGH,AAGH,cash_flow,2024,Shares (Diluted),21123253567.0,USD
+AAGH,AAGH,cash_flow,2024,SimFinId,12444287.0,USD
+AAGH,AAGH,income_statement,2023,Cost of Revenue,-35720.0,USD
+AAGH,AAGH,income_statement,2023,Gross Profit,168588.0,USD
+AAGH,AAGH,income_statement,2023,Income (Loss) from Continuing Operations,-777340.0,USD
+AAGH,AAGH,income_statement,2023,"Interest Expense, Net",-319679.0,USD
+AAGH,AAGH,income_statement,2023,Net Income,-761420.0,USD
+AAGH,AAGH,income_statement,2023,Net Income (Common),-761420.0,USD
+AAGH,AAGH,income_statement,2023,Non-Operating Income (Loss),-284696.0,USD
+AAGH,AAGH,income_statement,2023,Operating Expenses,-661232.0,USD
+AAGH,AAGH,income_statement,2023,Operating Income (Loss),-492644.0,USD
+AAGH,AAGH,income_statement,2023,Pretax Income (Loss),-777340.0,USD
+AAGH,AAGH,income_statement,2023,"Pretax Income (Loss), Adj.",-777340.0,USD
+AAGH,AAGH,income_statement,2023,Revenue,204308.0,USD
+AAGH,AAGH,income_statement,2023,"Selling, General & Administrative",-661232.0,USD
+AAGH,AAGH,income_statement,2023,Shares (Basic),21093402806.0,USD
+AAGH,AAGH,income_statement,2023,Shares (Diluted),21093402806.0,USD
+AAGH,AAGH,income_statement,2023,SimFinId,12444287.0,USD
+AAGH,AAGH,income_statement,2024,Cost of Revenue,-124920.0,USD
+AAGH,AAGH,income_statement,2024,Gross Profit,169750.0,USD
+AAGH,AAGH,income_statement,2024,Income (Loss) from Continuing Operations,-1226362.0,USD
+AAGH,AAGH,income_statement,2024,"Interest Expense, Net",-443662.0,USD
+AAGH,AAGH,income_statement,2024,Net Income,-1220571.0,USD
+AAGH,AAGH,income_statement,2024,Net Income (Common),-1220571.0,USD
+AAGH,AAGH,income_statement,2024,Non-Operating Income (Loss),-443662.0,USD
+AAGH,AAGH,income_statement,2024,Operating Expenses,-952450.0,USD
+AAGH,AAGH,income_statement,2024,Operating Income (Loss),-782700.0,USD
+AAGH,AAGH,income_statement,2024,Pretax Income (Loss),-1226362.0,USD
+AAGH,AAGH,income_statement,2024,"Pretax Income (Loss), Adj.",-1226362.0,USD
+AAGH,AAGH,income_statement,2024,Revenue,294670.0,USD
+AAGH,AAGH,income_statement,2024,"Selling, General & Administrative",-952450.0,USD
+AAGH,AAGH,income_statement,2024,Shares (Basic),21123253567.0,USD
+AAGH,AAGH,income_statement,2024,Shares (Diluted),21123253567.0,USD
+AAGH,AAGH,income_statement,2024,SimFinId,12444287.0,USD
+ADP,ADP,balance_sheet,2023,Accounts & Notes Receivable,3009600000.0,USD
+ADP,ADP,balance_sheet,2023,"Cash, Cash Equivalents & Short Term Investments",2083500000.0,USD
+ADP,ADP,balance_sheet,2023,Long Term Debt,2989000000.0,USD
+ADP,ADP,balance_sheet,2023,Other Long Term Assets,8119000000.0,USD
+ADP,ADP,balance_sheet,2023,Payables & Accruals,3935000000.0,USD
+ADP,ADP,balance_sheet,2023,"Property, Plant & Equipment, Net",681400000.0,USD
+ADP,ADP,balance_sheet,2023,Retained Earnings,22118000000.0,USD
+ADP,ADP,balance_sheet,2023,Share Capital & Additional Paid-In Capital,2166200000.0,USD
+ADP,ADP,balance_sheet,2023,Shares (Basic),413700000.0,USD
+ADP,ADP,balance_sheet,2023,Shares (Diluted),415700000.0,USD
+ADP,ADP,balance_sheet,2023,SimFinId,591496.0,USD
+ADP,ADP,balance_sheet,2023,Total Assets,50971000000.0,USD
+ADP,ADP,balance_sheet,2023,Total Current Assets,42170600000.0,USD
+ADP,ADP,balance_sheet,2023,Total Current Liabilities,42767600000.0,USD
+ADP,ADP,balance_sheet,2023,Total Equity,3509100000.0,USD
+ADP,ADP,balance_sheet,2023,Total Liabilities,47461900000.0,USD
+ADP,ADP,balance_sheet,2023,Total Liabilities & Equity,50971000000.0,USD
+ADP,ADP,balance_sheet,2023,Total Noncurrent Assets,8800400000.0,USD
+ADP,ADP,balance_sheet,2023,Total Noncurrent Liabilities,4694300000.0,USD
+ADP,ADP,balance_sheet,2023,Treasury Stock,-18469300000.0,USD
+ADP,ADP,balance_sheet,2024,Accounts & Notes Receivable,3428200000.0,USD
+ADP,ADP,balance_sheet,2024,"Cash, Cash Equivalents & Short Term Investments",3297400000.0,USD
+ADP,ADP,balance_sheet,2024,Long Term Debt,2991300000.0,USD
+ADP,ADP,balance_sheet,2024,Other Long Term Assets,8134600000.0,USD
+ADP,ADP,balance_sheet,2024,Payables & Accruals,4990900000.0,USD
+ADP,ADP,balance_sheet,2024,"Property, Plant & Equipment, Net",685600000.0,USD
+ADP,ADP,balance_sheet,2024,Retained Earnings,23622200000.0,USD
+ADP,ADP,balance_sheet,2024,Share Capital & Additional Paid-In Capital,2470800000.0,USD
+ADP,ADP,balance_sheet,2024,Shares (Basic),410600000.0,USD
+ADP,ADP,balance_sheet,2024,Shares (Diluted),412200000.0,USD
+ADP,ADP,balance_sheet,2024,SimFinId,591496.0,USD
+ADP,ADP,balance_sheet,2024,Total Assets,54362700000.0,USD
+ADP,ADP,balance_sheet,2024,Total Current Assets,45542500000.0,USD
+ADP,ADP,balance_sheet,2024,Total Current Liabilities,45080000000.0,USD
+ADP,ADP,balance_sheet,2024,Total Equity,4547600000.0,USD
+ADP,ADP,balance_sheet,2024,Total Liabilities,49815100000.0,USD
+ADP,ADP,balance_sheet,2024,Total Liabilities & Equity,54362700000.0,USD
+ADP,ADP,balance_sheet,2024,Total Noncurrent Assets,8820200000.0,USD
+ADP,ADP,balance_sheet,2024,Total Noncurrent Liabilities,4735100000.0,USD
+ADP,ADP,balance_sheet,2024,Treasury Stock,-19737100000.0,USD
+ADP,ADP,cash_flow,2023,Cash from (Repayment of) Debt,-1000000.0,USD
+ADP,ADP,cash_flow,2023,Cash from (Repurchase of) Equity,-1029800000.0,USD
+ADP,ADP,cash_flow,2023,Change in Fixed Assets & Intangibles,-571600000.0,USD
+ADP,ADP,cash_flow,2023,Change in Working Capital,-938700000.0,USD
+ADP,ADP,cash_flow,2023,Depreciation & Amortization,549300000.0,USD
+ADP,ADP,cash_flow,2023,Dividends Paid,-1903600000.0,USD
+ADP,ADP,cash_flow,2023,Net Cash from Acquisitions & Divestitures,-32400000.0,USD
+ADP,ADP,cash_flow,2023,Net Cash from Financing Activities,-15680700000.0,USD
+ADP,ADP,cash_flow,2023,Net Cash from Investing Activities,-2517300000.0,USD
+ADP,ADP,cash_flow,2023,Net Cash from Operating Activities,4207600000.0,USD
+ADP,ADP,cash_flow,2023,Net Change in Cash,-14011500000.0,USD
+ADP,ADP,cash_flow,2023,Net Change in Long Term Investment,-6618800000.0,USD
+ADP,ADP,cash_flow,2023,Net Income/Starting Line,3412000000.0,USD
+ADP,ADP,cash_flow,2023,Non-Cash Items,1185000000.0,USD
+ADP,ADP,cash_flow,2023,Shares (Basic),413700000.0,USD
+ADP,ADP,cash_flow,2023,Shares (Diluted),415700000.0,USD
+ADP,ADP,cash_flow,2023,SimFinId,591496.0,USD
+ADP,ADP,cash_flow,2024,Cash from (Repayment of) Debt,-900000.0,USD
+ADP,ADP,cash_flow,2024,Cash from (Repurchase of) Equity,-1184500000.0,USD
+ADP,ADP,cash_flow,2024,Change in Fixed Assets & Intangibles,-535100000.0,USD
+ADP,ADP,cash_flow,2024,Change in Working Capital,-1417400000.0,USD
+ADP,ADP,cash_flow,2024,Depreciation & Amortization,561900000.0,USD
+ADP,ADP,cash_flow,2024,Dividends Paid,-2183100000.0,USD
+ADP,ADP,cash_flow,2024,Net Cash from Acquisitions & Divestitures,-33600000.0,USD
+ADP,ADP,cash_flow,2024,Net Cash from Financing Activities,-2034400000.0,USD
+ADP,ADP,cash_flow,2024,Net Cash from Investing Activities,-786300000.0,USD
+ADP,ADP,cash_flow,2024,Net Cash from Operating Activities,4157600000.0,USD
+ADP,ADP,cash_flow,2024,Net Change in Cash,1314500000.0,USD
+ADP,ADP,cash_flow,2024,Net Change in Long Term Investment,-6835300000.0,USD
+ADP,ADP,cash_flow,2024,Net Income/Starting Line,3752000000.0,USD
+ADP,ADP,cash_flow,2024,Non-Cash Items,1261100000.0,USD
+ADP,ADP,cash_flow,2024,Shares (Basic),410600000.0,USD
+ADP,ADP,cash_flow,2024,Shares (Diluted),412200000.0,USD
+ADP,ADP,cash_flow,2024,SimFinId,591496.0,USD
+ADP,ADP,income_statement,2023,Cost of Revenue,-8657400000.0,USD
+ADP,ADP,income_statement,2023,Depreciation & Amortization,-451200000.0,USD
+ADP,ADP,income_statement,2023,Gross Profit,9354800000.0,USD
+ADP,ADP,income_statement,2023,Income (Loss) from Continuing Operations,3412000000.0,USD
+ADP,ADP,income_statement,2023,"Income Tax (Expense) Benefit, Net",-1025600000.0,USD
+ADP,ADP,income_statement,2023,"Interest Expense, Net",-253300000.0,USD
+ADP,ADP,income_statement,2023,Net Income,3412000000.0,USD
+ADP,ADP,income_statement,2023,Net Income (Common),3412000000.0,USD
+ADP,ADP,income_statement,2023,Non-Operating Income (Loss),-69800000.0,USD
+ADP,ADP,income_statement,2023,Operating Expenses,-4847400000.0,USD
+ADP,ADP,income_statement,2023,Operating Income (Loss),4507400000.0,USD
+ADP,ADP,income_statement,2023,Pretax Income (Loss),4437600000.0,USD
+ADP,ADP,income_statement,2023,"Pretax Income (Loss), Adj.",4437600000.0,USD
+ADP,ADP,income_statement,2023,Research & Development,-844800000.0,USD
+ADP,ADP,income_statement,2023,Revenue,18012200000.0,USD
+ADP,ADP,income_statement,2023,"Selling, General & Administrative",-3551400000.0,USD
+ADP,ADP,income_statement,2023,Shares (Basic),413700000.0,USD
+ADP,ADP,income_statement,2023,Shares (Diluted),415700000.0,USD
+ADP,ADP,income_statement,2023,SimFinId,591496.0,USD
+ADP,ADP,income_statement,2024,Cost of Revenue,-9050100000.0,USD
+ADP,ADP,income_statement,2024,Depreciation & Amortization,-470900000.0,USD
+ADP,ADP,income_statement,2024,Gross Profit,10152500000.0,USD
+ADP,ADP,income_statement,2024,Income (Loss) from Continuing Operations,3752000000.0,USD
+ADP,ADP,income_statement,2024,"Income Tax (Expense) Benefit, Net",-1120300000.0,USD
+ADP,ADP,income_statement,2024,"Interest Expense, Net",-361400000.0,USD
+ADP,ADP,income_statement,2024,Net Income,3752000000.0,USD
+ADP,ADP,income_statement,2024,Net Income (Common),3752000000.0,USD
+ADP,ADP,income_statement,2024,Non-Operating Income (Loss),-74700000.0,USD
+ADP,ADP,income_statement,2024,Operating Expenses,-5205500000.0,USD
+ADP,ADP,income_statement,2024,Operating Income (Loss),4947000000.0,USD
+ADP,ADP,income_statement,2024,Pretax Income (Loss),4872300000.0,USD
+ADP,ADP,income_statement,2024,"Pretax Income (Loss), Adj.",4872300000.0,USD
+ADP,ADP,income_statement,2024,Research & Development,-955700000.0,USD
+ADP,ADP,income_statement,2024,Revenue,19202600000.0,USD
+ADP,ADP,income_statement,2024,"Selling, General & Administrative",-3778900000.0,USD
+ADP,ADP,income_statement,2024,Shares (Basic),410600000.0,USD
+ADP,ADP,income_statement,2024,Shares (Diluted),412200000.0,USD
+ADP,ADP,income_statement,2024,SimFinId,591496.0,USD
+AEHR,AEHR,balance_sheet,2023,Accounts & Notes Receivable,16594000.0,USD
+AEHR,AEHR,balance_sheet,2023,"Cash, Cash Equivalents & Short Term Investments",47907000.0,USD
+AEHR,AEHR,balance_sheet,2023,Inventories,23908000.0,USD
+AEHR,AEHR,balance_sheet,2023,Other Long Term Assets,6354000.0,USD
+AEHR,AEHR,balance_sheet,2023,Payables & Accruals,13349000.0,USD
+AEHR,AEHR,balance_sheet,2023,"Property, Plant & Equipment, Net",2759000.0,USD
+AEHR,AEHR,balance_sheet,2023,Retained Earnings,-52306000.0,USD
+AEHR,AEHR,balance_sheet,2023,Share Capital & Additional Paid-In Capital,128061000.0,USD
+AEHR,AEHR,balance_sheet,2023,Shares (Basic),27785000.0,USD
+AEHR,AEHR,balance_sheet,2023,Shares (Diluted),29215000.0,USD
+AEHR,AEHR,balance_sheet,2023,SimFinId,178053.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Assets,98143000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Current Assets,89030000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Current Liabilities,16308000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Equity,75600000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Liabilities,22543000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Liabilities & Equity,98143000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Noncurrent Assets,9113000.0,USD
+AEHR,AEHR,balance_sheet,2023,Total Noncurrent Liabilities,6235000.0,USD
+AEHR,AEHR,balance_sheet,2024,Accounts & Notes Receivable,9796000.0,USD
+AEHR,AEHR,balance_sheet,2024,"Cash, Cash Equivalents & Short Term Investments",49159000.0,USD
+AEHR,AEHR,balance_sheet,2024,Inventories,37470000.0,USD
+AEHR,AEHR,balance_sheet,2024,Other Long Term Assets,26811000.0,USD
+AEHR,AEHR,balance_sheet,2024,Payables & Accruals,8698000.0,USD
+AEHR,AEHR,balance_sheet,2024,"Property, Plant & Equipment, Net",3253000.0,USD
+AEHR,AEHR,balance_sheet,2024,Retained Earnings,-19150000.0,USD
+AEHR,AEHR,balance_sheet,2024,Share Capital & Additional Paid-In Capital,130901000.0,USD
+AEHR,AEHR,balance_sheet,2024,Shares (Basic),28818000.0,USD
+AEHR,AEHR,balance_sheet,2024,Shares (Diluted),29617000.0,USD
+AEHR,AEHR,balance_sheet,2024,SimFinId,178053.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Assets,127912000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Current Assets,97848000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Current Liabilities,10508000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Equity,111593000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Liabilities,16319000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Liabilities & Equity,127912000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Noncurrent Assets,30064000.0,USD
+AEHR,AEHR,balance_sheet,2024,Total Noncurrent Liabilities,5811000.0,USD
+AEHR,AEHR,cash_flow,2023,Cash from (Repurchase of) Equity,9382000.0,USD
+AEHR,AEHR,cash_flow,2023,Change in Fixed Assets & Intangibles,-1362000.0,USD
+AEHR,AEHR,cash_flow,2023,Change in Working Capital,-7841000.0,USD
+AEHR,AEHR,cash_flow,2023,Depreciation & Amortization,450000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Cash from Financing Activities,7322000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Cash from Investing Activities,-18656000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Cash from Operating Activities,10011000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Change in Cash,-1360000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Change in Long Term Investment,-17294000.0,USD
+AEHR,AEHR,cash_flow,2023,Net Income/Starting Line,14557000.0,USD
+AEHR,AEHR,cash_flow,2023,Non-Cash Items,2845000.0,USD
+AEHR,AEHR,cash_flow,2023,Shares (Basic),27785000.0,USD
+AEHR,AEHR,cash_flow,2023,Shares (Diluted),29215000.0,USD
+AEHR,AEHR,cash_flow,2023,SimFinId,178053.0,USD
+AEHR,AEHR,cash_flow,2024,Cash from (Repurchase of) Equity,1735000.0,USD
+AEHR,AEHR,cash_flow,2024,Change in Fixed Assets & Intangibles,-749000.0,USD
+AEHR,AEHR,cash_flow,2024,Change in Working Capital,-14378000.0,USD
+AEHR,AEHR,cash_flow,2024,Depreciation & Amortization,657000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Cash from Financing Activities,139000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Cash from Investing Activities,17251000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Cash from Operating Activities,1756000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Change in Cash,19105000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Change in Long Term Investment,18000000.0,USD
+AEHR,AEHR,cash_flow,2024,Net Income/Starting Line,33156000.0,USD
+AEHR,AEHR,cash_flow,2024,Non-Cash Items,-17679000.0,USD
+AEHR,AEHR,cash_flow,2024,Shares (Basic),28818000.0,USD
+AEHR,AEHR,cash_flow,2024,Shares (Diluted),29617000.0,USD
+AEHR,AEHR,cash_flow,2024,SimFinId,178053.0,USD
+AEHR,AEHR,income_statement,2023,Cost of Revenue,-32215000.0,USD
+AEHR,AEHR,income_statement,2023,Gross Profit,32746000.0,USD
+AEHR,AEHR,income_statement,2023,Income (Loss) from Continuing Operations,14557000.0,USD
+AEHR,AEHR,income_statement,2023,"Income Tax (Expense) Benefit, Net",-60000.0,USD
+AEHR,AEHR,income_statement,2023,"Interest Expense, Net",1245000.0,USD
+AEHR,AEHR,income_statement,2023,Net Income,14557000.0,USD
+AEHR,AEHR,income_statement,2023,Net Income (Common),14557000.0,USD
+AEHR,AEHR,income_statement,2023,Non-Operating Income (Loss),1242000.0,USD
+AEHR,AEHR,income_statement,2023,Operating Expenses,-19371000.0,USD
+AEHR,AEHR,income_statement,2023,Operating Income (Loss),13375000.0,USD
+AEHR,AEHR,income_statement,2023,Pretax Income (Loss),14617000.0,USD
+AEHR,AEHR,income_statement,2023,"Pretax Income (Loss), Adj.",14617000.0,USD
+AEHR,AEHR,income_statement,2023,Research & Development,-7134000.0,USD
+AEHR,AEHR,income_statement,2023,Revenue,64961000.0,USD
+AEHR,AEHR,income_statement,2023,"Selling, General & Administrative",-12237000.0,USD
+AEHR,AEHR,income_statement,2023,Shares (Basic),27785000.0,USD
+AEHR,AEHR,income_statement,2023,Shares (Diluted),29215000.0,USD
+AEHR,AEHR,income_statement,2023,SimFinId,178053.0,USD
+AEHR,AEHR,income_statement,2024,Cost of Revenue,-33675000.0,USD
+AEHR,AEHR,income_statement,2024,Gross Profit,32543000.0,USD
+AEHR,AEHR,income_statement,2024,Income (Loss) from Continuing Operations,33156000.0,USD
+AEHR,AEHR,income_statement,2024,"Income Tax (Expense) Benefit, Net",20698000.0,USD
+AEHR,AEHR,income_statement,2024,"Interest Expense, Net",2388000.0,USD
+AEHR,AEHR,income_statement,2024,Net Income,33156000.0,USD
+AEHR,AEHR,income_statement,2024,Net Income (Common),33156000.0,USD
+AEHR,AEHR,income_statement,2024,Non-Operating Income (Loss),2380000.0,USD
+AEHR,AEHR,income_statement,2024,Operating Expenses,-22465000.0,USD
+AEHR,AEHR,income_statement,2024,Operating Income (Loss),10078000.0,USD
+AEHR,AEHR,income_statement,2024,Pretax Income (Loss),12458000.0,USD
+AEHR,AEHR,income_statement,2024,"Pretax Income (Loss), Adj.",12458000.0,USD
+AEHR,AEHR,income_statement,2024,Research & Development,-8719000.0,USD
+AEHR,AEHR,income_statement,2024,Revenue,66218000.0,USD
+AEHR,AEHR,income_statement,2024,"Selling, General & Administrative",-13746000.0,USD
+AEHR,AEHR,income_statement,2024,Shares (Basic),28818000.0,USD
+AEHR,AEHR,income_statement,2024,Shares (Diluted),29617000.0,USD
+AEHR,AEHR,income_statement,2024,SimFinId,178053.0,USD
+AFRM,AFRM,balance_sheet,2023,Accounts & Notes Receivable,-5446000.0,USD
+AFRM,AFRM,balance_sheet,2023,"Cash, Cash Equivalents & Short Term Investments",2066680000.0,USD
+AFRM,AFRM,balance_sheet,2023,Long Term Debt,5344597000.0,USD
+AFRM,AFRM,balance_sheet,2023,Long Term Investments & Receivables,4402962000.0,USD
+AFRM,AFRM,balance_sheet,2023,Other Long Term Assets,1033291000.0,USD
+AFRM,AFRM,balance_sheet,2023,Payables & Accruals,222983000.0,USD
+AFRM,AFRM,balance_sheet,2023,"Property, Plant & Equipment, Net",290135000.0,USD
+AFRM,AFRM,balance_sheet,2023,Retained Earnings,-2591247000.0,USD
+AFRM,AFRM,balance_sheet,2023,Share Capital & Additional Paid-In Capital,5140853000.0,USD
+AFRM,AFRM,balance_sheet,2023,Shares (Basic),295343466.0,USD
+AFRM,AFRM,balance_sheet,2023,Shares (Diluted),295343466.0,USD
+AFRM,AFRM,balance_sheet,2023,SimFinId,1242005.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Assets,8155615000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Current Assets,2429227000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Current Liabilities,276835000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Equity,2534183000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Liabilities,5621432000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Liabilities & Equity,8155615000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Noncurrent Assets,5726388000.0,USD
+AFRM,AFRM,balance_sheet,2023,Total Noncurrent Liabilities,5344597000.0,USD
+AFRM,AFRM,balance_sheet,2024,Accounts & Notes Receivable,43931000.0,USD
+AFRM,AFRM,balance_sheet,2024,"Cash, Cash Equivalents & Short Term Investments",2144734000.0,USD
+AFRM,AFRM,balance_sheet,2024,Long Term Debt,3178339000.0,USD
+AFRM,AFRM,balance_sheet,2024,Long Term Investments & Receivables,5670056000.0,USD
+AFRM,AFRM,balance_sheet,2024,Other Long Term Assets,950883000.0,USD
+AFRM,AFRM,balance_sheet,2024,Payables & Accruals,212775000.0,USD
+AFRM,AFRM,balance_sheet,2024,"Property, Plant & Equipment, Net",427686000.0,USD
+AFRM,AFRM,balance_sheet,2024,Retained Earnings,-3109004000.0,USD
+AFRM,AFRM,balance_sheet,2024,Share Capital & Additional Paid-In Capital,5862558000.0,USD
+AFRM,AFRM,balance_sheet,2024,Shares (Basic),309857129.0,USD
+AFRM,AFRM,balance_sheet,2024,Shares (Diluted),309857129.0,USD
+AFRM,AFRM,balance_sheet,2024,SimFinId,1242005.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Assets,9519619000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Current Assets,2470994000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Current Liabilities,372418000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Equity,2731989000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Liabilities,6787630000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Liabilities & Equity,9519619000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Noncurrent Assets,7048625000.0,USD
+AFRM,AFRM,balance_sheet,2024,Total Noncurrent Liabilities,6415212000.0,USD
+AFRM,AFRM,cash_flow,2023,Cash from (Repayment of) Debt,1093440000.0,USD
+AFRM,AFRM,cash_flow,2023,Cash from (Repurchase of) Equity,15659000.0,USD
+AFRM,AFRM,cash_flow,2023,Change in Fixed Assets & Intangibles,-120775000.0,USD
+AFRM,AFRM,cash_flow,2023,Change in Working Capital,-6144336000.0,USD
+AFRM,AFRM,cash_flow,2023,Depreciation & Amortization,134634000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Cash from Acquisitions & Divestitures,-16051000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Cash from Financing Activities,1349945000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Cash from Investing Activities,-1653070000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Cash from Operating Activities,12181000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Change in Cash,-290863000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Change in Long Term Investment,455348000.0,USD
+AFRM,AFRM,cash_flow,2023,Net Income/Starting Line,-985345000.0,USD
+AFRM,AFRM,cash_flow,2023,Non-Cash Items,7007228000.0,USD
+AFRM,AFRM,cash_flow,2023,Shares (Basic),295343466.0,USD
+AFRM,AFRM,cash_flow,2023,Shares (Diluted),295343466.0,USD
+AFRM,AFRM,cash_flow,2023,SimFinId,1242005.0,USD
+AFRM,AFRM,cash_flow,2024,Cash from (Repayment of) Debt,86507000.0,USD
+AFRM,AFRM,cash_flow,2024,Cash from (Repurchase of) Equity,33125000.0,USD
+AFRM,AFRM,cash_flow,2024,Change in Fixed Assets & Intangibles,-159296000.0,USD
+AFRM,AFRM,cash_flow,2024,Change in Working Capital,-4274651000.0,USD
+AFRM,AFRM,cash_flow,2024,Depreciation & Amortization,169044000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Cash from Financing Activities,913149000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Cash from Investing Activities,-1325149000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Cash from Operating Activities,450138000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Change in Cash,35455000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Change in Long Term Investment,150866000.0,USD
+AFRM,AFRM,cash_flow,2024,Net Income/Starting Line,-517757000.0,USD
+AFRM,AFRM,cash_flow,2024,Non-Cash Items,5073502000.0,USD
+AFRM,AFRM,cash_flow,2024,Shares (Basic),309857129.0,USD
+AFRM,AFRM,cash_flow,2024,Shares (Diluted),309857129.0,USD
+AFRM,AFRM,cash_flow,2024,SimFinId,1242005.0,USD
+AFRM,AFRM,income_statement,2023,Abnormal Gains (Losses),-176135000.0,USD
+AFRM,AFRM,income_statement,2023,Cost of Revenue,-183013000.0,USD
+AFRM,AFRM,income_statement,2023,Gross Profit,1404972000.0,USD
+AFRM,AFRM,income_statement,2023,Income (Loss) from Continuing Operations,-985345000.0,USD
+AFRM,AFRM,income_statement,2023,"Income Tax (Expense) Benefit, Net",3900000.0,USD
+AFRM,AFRM,income_statement,2023,Net Income,-985345000.0,USD
+AFRM,AFRM,income_statement,2023,Net Income (Common),-985345000.0,USD
+AFRM,AFRM,income_statement,2023,Non-Operating Income (Loss),211617000.0,USD
+AFRM,AFRM,income_statement,2023,Operating Expenses,-2429699000.0,USD
+AFRM,AFRM,income_statement,2023,Operating Income (Loss),-1024727000.0,USD
+AFRM,AFRM,income_statement,2023,Pretax Income (Loss),-989245000.0,USD
+AFRM,AFRM,income_statement,2023,"Pretax Income (Loss), Adj.",-813110000.0,USD
+AFRM,AFRM,income_statement,2023,Revenue,1587985000.0,USD
+AFRM,AFRM,income_statement,2023,"Selling, General & Administrative",-1224678000.0,USD
+AFRM,AFRM,income_statement,2023,Shares (Basic),295343466.0,USD
+AFRM,AFRM,income_statement,2023,Shares (Diluted),295343466.0,USD
+AFRM,AFRM,income_statement,2023,SimFinId,1242005.0,USD
+AFRM,AFRM,income_statement,2024,Abnormal Gains (Losses),-187163000.0,USD
+AFRM,AFRM,income_statement,2024,Cost of Revenue,-344253000.0,USD
+AFRM,AFRM,income_statement,2024,Gross Profit,1978746000.0,USD
+AFRM,AFRM,income_statement,2024,Income (Loss) from Continuing Operations,-517757000.0,USD
+AFRM,AFRM,income_statement,2024,"Income Tax (Expense) Benefit, Net",-2230000.0,USD
+AFRM,AFRM,income_statement,2024,Net Income,-517757000.0,USD
+AFRM,AFRM,income_statement,2024,Net Income (Common),-517757000.0,USD
+AFRM,AFRM,income_statement,2024,Non-Operating Income (Loss),100320000.0,USD
+AFRM,AFRM,income_statement,2024,Operating Expenses,-2407430000.0,USD
+AFRM,AFRM,income_statement,2024,Operating Income (Loss),-428684000.0,USD
+AFRM,AFRM,income_statement,2024,Pretax Income (Loss),-515527000.0,USD
+AFRM,AFRM,income_statement,2024,"Pretax Income (Loss), Adj.",-328364000.0,USD
+AFRM,AFRM,income_statement,2024,Revenue,2322999000.0,USD
+AFRM,AFRM,income_statement,2024,"Selling, General & Administrative",-1101696000.0,USD
+AFRM,AFRM,income_statement,2024,Shares (Basic),309857129.0,USD
+AFRM,AFRM,income_statement,2024,Shares (Diluted),309857129.0,USD
+AFRM,AFRM,income_statement,2024,SimFinId,1242005.0,USD

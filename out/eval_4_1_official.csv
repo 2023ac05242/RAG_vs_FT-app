@@ -1,0 +1,7 @@
+Question,Method,Answer,Confidence,Time (s),Correct (Y/N)
+What was ADP's Revenue in 2024?,RAG,ADP 2024 Revenue: $19.20 billion (USD).,0.95,0.58,Y
+What was ADP's Revenue in 2024?,Fine-Tune,$19.18 billion,0.9,0.03,Y
+What was revenue in 2024?,RAG,RAG summary:,0.4,0.91,Y
+What was revenue in 2024?,Fine-Tune,Not applicable (needs ticker/year),0.0,0.0,Y
+What is the capital of France?,RAG,RAG summary:,0.4,2.68,Y
+What is the capital of France?,Fine-Tune,Not applicable (non-finance),0.0,0.0,Y

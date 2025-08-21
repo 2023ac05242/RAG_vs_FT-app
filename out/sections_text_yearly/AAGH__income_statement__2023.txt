@@ -1,0 +1,18 @@
+AAGH — Income Statement — Fiscal Year: 2023
+-------------------------------------------
+ - Shares (Basic): 21093402806 USD
+ - Shares (Diluted): 21093402806 USD
+ - SimFinId: 12444287 USD
+ - Income (Loss) from Continuing Operations: -777340 USD
+ - Pretax Income (Loss): -777340 USD
+ - Pretax Income (Loss), Adj.: -777340 USD
+ - Net Income (Common): -761420 USD
+ - Net Income: -761420 USD
+ - Operating Expenses: -661232 USD
+ - Selling, General & Administrative: -661232 USD
+ - Operating Income (Loss): -492644 USD
+ - Interest Expense, Net: -319679 USD
+ - Non-Operating Income (Loss): -284696 USD
+ - Revenue: 204308 USD
+ - Gross Profit: 168588 USD
+ - Cost of Revenue: -35720 USD

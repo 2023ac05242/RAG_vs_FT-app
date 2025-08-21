@@ -1,0 +1,38 @@
+AAPL — Income Statement
+-----------------------
+Fiscal Year: 2022
+ - Revenue: 394328000000 USD
+ - Cost of Revenue: -223546000000 USD
+ - Gross Profit: 170782000000 USD
+ - Operating Income (Loss): 119437000000 USD
+ - Pretax Income (Loss): 119103000000 USD
+ - Pretax Income (Loss), Adj.: 119103000000 USD
+ - Net Income (Common): 99803000000 USD
+ - Net Income: 99803000000 USD
+ - Income (Loss) from Continuing Operations: 99803000000 USD
+ - Operating Expenses: -51345000000 USD
+ - Research & Development: -26251000000 USD
+ - Selling, General & Administrative: -25094000000 USD
+ - Income Tax (Expense) Benefit, Net: -19300000000 USD
+ - Shares (Diluted): 16325819000 USD
+ - Shares (Basic): 16215963000 USD
+ - Non-Operating Income (Loss): -334000000 USD
+ - SimFinId: 111052 USD
+Fiscal Year: 2023
+ - Revenue: 383285000000 USD
+ - Cost of Revenue: -214137000000 USD
+ - Gross Profit: 169148000000 USD
+ - Operating Income (Loss): 114301000000 USD
+ - Pretax Income (Loss): 113736000000 USD
+ - Pretax Income (Loss), Adj.: 113736000000 USD
+ - Net Income (Common): 96995000000 USD
+ - Net Income: 96995000000 USD
+ - Income (Loss) from Continuing Operations: 96995000000 USD
+ - Operating Expenses: -54847000000 USD
+ - Research & Development: -29915000000 USD
+ - Selling, General & Administrative: -24932000000 USD
+ - Income Tax (Expense) Benefit, Net: -16741000000 USD
+ - Shares (Diluted): 15812547000 USD
+ - Shares (Basic): 15744231000 USD
+ - Non-Operating Income (Loss): -565000000 USD
+ - SimFinId: 111052 USD

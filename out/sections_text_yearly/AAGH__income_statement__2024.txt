@@ -1,0 +1,18 @@
+AAGH — Income Statement — Fiscal Year: 2024
+-------------------------------------------
+ - Shares (Basic): 21123253567 USD
+ - Shares (Diluted): 21123253567 USD
+ - SimFinId: 12444287 USD
+ - Income (Loss) from Continuing Operations: -1226362 USD
+ - Pretax Income (Loss): -1226362 USD
+ - Pretax Income (Loss), Adj.: -1226362 USD
+ - Net Income (Common): -1220571 USD
+ - Net Income: -1220571 USD
+ - Operating Expenses: -952450 USD
+ - Selling, General & Administrative: -952450 USD
+ - Operating Income (Loss): -782700 USD
+ - Interest Expense, Net: -443662 USD
+ - Non-Operating Income (Loss): -443662 USD
+ - Revenue: 294670 USD
+ - Gross Profit: 169750 USD
+ - Cost of Revenue: -124920 USD

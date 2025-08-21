@@ -1,0 +1,21 @@
+AEHR — Balance Sheet — Fiscal Year: 2024
+----------------------------------------
+ - Share Capital & Additional Paid-In Capital: 130901000 USD
+ - Total Assets: 127912000 USD
+ - Total Liabilities & Equity: 127912000 USD
+ - Total Equity: 111593000 USD
+ - Total Current Assets: 97848000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 49159000 USD
+ - Inventories: 37470000 USD
+ - Total Noncurrent Assets: 30064000 USD
+ - Shares (Diluted): 29617000 USD
+ - Shares (Basic): 28818000 USD
+ - Other Long Term Assets: 26811000 USD
+ - Retained Earnings: -19150000 USD
+ - Total Liabilities: 16319000 USD
+ - Total Current Liabilities: 10508000 USD
+ - Accounts & Notes Receivable: 9796000 USD
+ - Payables & Accruals: 8698000 USD
+ - Total Noncurrent Liabilities: 5811000 USD
+ - Property, Plant & Equipment, Net: 3253000 USD
+ - SimFinId: 178053 USD

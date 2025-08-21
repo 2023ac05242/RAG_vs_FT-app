@@ -1,0 +1,38 @@
+MSFT — Income Statement
+-----------------------
+Fiscal Year: 2023
+ - Revenue: 211915000000 USD
+ - Gross Profit: 146052000000 USD
+ - Pretax Income (Loss): 89311000000 USD
+ - Pretax Income (Loss), Adj.: 89311000000 USD
+ - Operating Income (Loss): 88523000000 USD
+ - Net Income: 72361000000 USD
+ - Net Income (Common): 72361000000 USD
+ - Income (Loss) from Continuing Operations: 72361000000 USD
+ - Cost of Revenue: -65863000000 USD
+ - Operating Expenses: -57529000000 USD
+ - Selling, General & Administrative: -30334000000 USD
+ - Research & Development: -27195000000 USD
+ - Income Tax (Expense) Benefit, Net: -16950000000 USD
+ - Shares (Diluted): 7472000000 USD
+ - Shares (Basic): 7446000000 USD
+ - Non-Operating Income (Loss): 788000000 USD
+ - SimFinId: 59265 USD
+Fiscal Year: 2024
+ - Revenue: 245122000000 USD
+ - Gross Profit: 171008000000 USD
+ - Operating Income (Loss): 109433000000 USD
+ - Pretax Income (Loss), Adj.: 107787000000 USD
+ - Pretax Income (Loss): 107787000000 USD
+ - Net Income: 88136000000 USD
+ - Net Income (Common): 88136000000 USD
+ - Income (Loss) from Continuing Operations: 88136000000 USD
+ - Cost of Revenue: -74114000000 USD
+ - Operating Expenses: -61575000000 USD
+ - Selling, General & Administrative: -32065000000 USD
+ - Research & Development: -29510000000 USD
+ - Income Tax (Expense) Benefit, Net: -19651000000 USD
+ - Shares (Diluted): 7469000000 USD
+ - Shares (Basic): 7431000000 USD
+ - Non-Operating Income (Loss): -1646000000 USD
+ - SimFinId: 59265 USD

@@ -1,0 +1,44 @@
+MSFT — Balance Sheet
+--------------------
+Fiscal Year: 2023
+ - Total Assets: 411976000000 USD
+ - Total Liabilities & Equity: 411976000000 USD
+ - Total Noncurrent Assets: 227719000000 USD
+ - Total Equity: 206223000000 USD
+ - Total Liabilities: 205753000000 USD
+ - Total Current Assets: 184257000000 USD
+ - Other Long Term Assets: 122199000000 USD
+ - Retained Earnings: 118848000000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 111262000000 USD
+ - Total Current Liabilities: 104149000000 USD
+ - Total Noncurrent Liabilities: 101604000000 USD
+ - Property, Plant & Equipment, Net: 95641000000 USD
+ - Share Capital & Additional Paid-In Capital: 93718000000 USD
+ - Accounts & Notes Receivable: 48688000000 USD
+ - Long Term Debt: 41990000000 USD
+ - Payables & Accruals: 33256000000 USD
+ - Long Term Investments & Receivables: 9879000000 USD
+ - Shares (Diluted): 7472000000 USD
+ - Shares (Basic): 7446000000 USD
+ - Short Term Debt: 5247000000 USD
+Fiscal Year: 2024
+ - Total Assets: 512163000000 USD
+ - Total Liabilities & Equity: 512163000000 USD
+ - Total Noncurrent Assets: 352429000000 USD
+ - Total Equity: 268477000000 USD
+ - Total Liabilities: 243686000000 USD
+ - Other Long Term Assets: 202238000000 USD
+ - Retained Earnings: 173144000000 USD
+ - Total Current Assets: 159734000000 USD
+ - Property, Plant & Equipment, Net: 135591000000 USD
+ - Total Current Liabilities: 125286000000 USD
+ - Total Noncurrent Liabilities: 118400000000 USD
+ - Share Capital & Additional Paid-In Capital: 100923000000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 75543000000 USD
+ - Accounts & Notes Receivable: 56924000000 USD
+ - Long Term Debt: 42688000000 USD
+ - Payables & Accruals: 39577000000 USD
+ - Long Term Investments & Receivables: 14600000000 USD
+ - Short Term Debt: 8942000000 USD
+ - Shares (Diluted): 7469000000 USD
+ - Shares (Basic): 7431000000 USD

@@ -1,0 +1,17 @@
+AFRM — Cash Flow — Fiscal Year: 2024
+------------------------------------
+ - Non-Cash Items: 5073502000 USD
+ - Change in Working Capital: -4274651000 USD
+ - Net Cash from Investing Activities: -1325149000 USD
+ - Net Cash from Financing Activities: 913149000 USD
+ - Net Income/Starting Line: -517757000 USD
+ - Net Cash from Operating Activities: 450138000 USD
+ - Shares (Basic): 309857129 USD
+ - Shares (Diluted): 309857129 USD
+ - Depreciation & Amortization: 169044000 USD
+ - Change in Fixed Assets & Intangibles: -159296000 USD
+ - Net Change in Long Term Investment: 150866000 USD
+ - Cash from (Repayment of) Debt: 86507000 USD
+ - Net Change in Cash: 35455000 USD
+ - Cash from (Repurchase of) Equity: 33125000 USD
+ - SimFinId: 1242005 USD

@@ -1,0 +1,19 @@
+ADP — Cash Flow — Fiscal Year: 2023
+-----------------------------------
+ - Net Cash from Financing Activities: -15680700000 USD
+ - Net Change in Cash: -14011500000 USD
+ - Net Change in Long Term Investment: -6618800000 USD
+ - Net Cash from Operating Activities: 4207600000 USD
+ - Net Income/Starting Line: 3412000000 USD
+ - Net Cash from Investing Activities: -2517300000 USD
+ - Dividends Paid: -1903600000 USD
+ - Non-Cash Items: 1185000000 USD
+ - Cash from (Repurchase of) Equity: -1029800000 USD
+ - Change in Working Capital: -938700000 USD
+ - Change in Fixed Assets & Intangibles: -571600000 USD
+ - Depreciation & Amortization: 549300000 USD
+ - Shares (Diluted): 415700000 USD
+ - Shares (Basic): 413700000 USD
+ - Net Cash from Acquisitions & Divestitures: -32400000 USD
+ - Cash from (Repayment of) Debt: -1000000 USD
+ - SimFinId: 591496 USD

@@ -1,0 +1,38 @@
+MSFT — Cash Flow
+----------------
+Fiscal Year: 2023
+ - Net Cash from Operating Activities: 87582000000 USD
+ - Net Income/Starting Line: 72361000000 USD
+ - Net Cash from Financing Activities: -46045000000 USD
+ - Change in Fixed Assets & Intangibles: -28107000000 USD
+ - Net Change in Cash: 20773000000 USD
+ - Net Cash from Investing Activities: -20570000000 USD
+ - Cash from (Repurchase of) Equity: -20379000000 USD
+ - Dividends Paid: -19800000000 USD
+ - Depreciation & Amortization: 13861000000 USD
+ - Net Change in Long Term Investment: 10213000000 USD
+ - Shares (Diluted): 7472000000 USD
+ - Shares (Basic): 7446000000 USD
+ - Non-Cash Items: 3748000000 USD
+ - Cash from (Repayment of) Debt: -2750000000 USD
+ - Change in Working Capital: -2388000000 USD
+ - Net Cash from Acquisitions & Divestitures: -1670000000 USD
+ - SimFinId: 59265 USD
+Fiscal Year: 2024
+ - Net Cash from Operating Activities: 118548000000 USD
+ - Net Cash from Investing Activities: -96981000000 USD
+ - Net Income/Starting Line: 88136000000 USD
+ - Net Cash from Acquisitions & Divestitures: -69132000000 USD
+ - Change in Fixed Assets & Intangibles: -44477000000 USD
+ - Net Cash from Financing Activities: -37746000000 USD
+ - Depreciation & Amortization: 22287000000 USD
+ - Dividends Paid: -21771000000 USD
+ - Net Change in Long Term Investment: 17937000000 USD
+ - Net Change in Cash: -16389000000 USD
+ - Cash from (Repurchase of) Equity: -15252000000 USD
+ - Shares (Diluted): 7469000000 USD
+ - Shares (Basic): 7431000000 USD
+ - Non-Cash Items: 6301000000 USD
+ - Change in Working Capital: 1824000000 USD
+ - Cash from (Repayment of) Debt: 575000000 USD
+ - SimFinId: 59265 USD

@@ -1,0 +1,22 @@
+ADP — Balance Sheet — Fiscal Year: 2024
+---------------------------------------
+ - Total Liabilities & Equity: 54362700000 USD
+ - Total Assets: 54362700000 USD
+ - Total Liabilities: 49815100000 USD
+ - Total Current Assets: 45542500000 USD
+ - Total Current Liabilities: 45080000000 USD
+ - Retained Earnings: 23622200000 USD
+ - Treasury Stock: -19737100000 USD
+ - Total Noncurrent Assets: 8820200000 USD
+ - Other Long Term Assets: 8134600000 USD
+ - Payables & Accruals: 4990900000 USD
+ - Total Noncurrent Liabilities: 4735100000 USD
+ - Total Equity: 4547600000 USD
+ - Accounts & Notes Receivable: 3428200000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 3297400000 USD
+ - Long Term Debt: 2991300000 USD
+ - Share Capital & Additional Paid-In Capital: 2470800000 USD
+ - Property, Plant & Equipment, Net: 685600000 USD
+ - Shares (Diluted): 412200000 USD
+ - Shares (Basic): 410600000 USD
+ - SimFinId: 591496 USD

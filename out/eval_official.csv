@@ -1,0 +1,7 @@
+Question,Method,Answer,Confidence,Time (s),Correct (Y/N)
+What was ADP's revenue in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was ADP's revenue in 2024?,Fine-Tune,$20,0.6,0.05,N
+What was revenue in 2024?,RAG,Not applicable (guard),0.0,0.0,Y
+What was revenue in 2024?,Fine-Tune,Not applicable (needs ticker/year),0.0,0.0,Y
+What is the capital of France?,RAG,Not applicable (guard),0.0,0.0,Y
+What is the capital of France?,Fine-Tune,Not applicable (needs ticker/year),0.0,0.0,Y

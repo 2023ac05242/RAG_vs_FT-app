@@ -1,0 +1,21 @@
+Question,Method,Real Answer,Model Answer,Confidence,Time (s),Correct (Y/N)
+What was ADP's Total Assets in 2023?,RAG,$50.97 billion (USD),ADP 2023 Total Assets: $50.97 billion (USD).,0.95,0.62,Y
+What was ADP's Total Assets in 2023?,Fine-Tune,$50.97 billion (USD),$37.02 billion,0.6,0.04,N
+What was AAGH's Net Income in 2024?,RAG,-$1.22 million (USD),AAGH 2024 Net Income: -$1.22 million (USD).,0.95,0.55,Y
+What was AAGH's Net Income in 2024?,Fine-Tune,-$1.22 million (USD),-$17.39 million,0.9,0.04,Y
+What was ADP's Gross Profit in 2024?,RAG,$10.15 billion (USD),ADP 2024 Gross Profit: $10.15 billion (USD).,0.95,0.57,Y
+What was ADP's Gross Profit in 2024?,Fine-Tune,$10.15 billion (USD),$10.49 billion,0.9,0.04,Y
+What was AEHR's Total Assets in 2024?,RAG,$127.91 million (USD),AEHR 2024 Total Assets: $127.91 million (USD).,0.95,0.55,Y
+What was AEHR's Total Assets in 2024?,Fine-Tune,$127.91 million (USD),$43.20 million,0.6,0.05,N
+What was AAGH's Net Income (Common) in 2023?,RAG,-$761.42 thousand (USD),AAGH 2023 Net Income: -$761.42 thousand (USD).,0.95,0.57,Y
+What was AAGH's Net Income (Common) in 2023?,Fine-Tune,-$761.42 thousand (USD),-$25.45 million,0.9,0.03,Y
+What was AAGH's Gross Profit in 2023?,RAG,$168.59 thousand (USD),AAGH 2023 Gross Profit: $168.59 thousand (USD).,0.95,0.6,Y
+What was AAGH's Gross Profit in 2023?,Fine-Tune,$168.59 thousand (USD),-$23.27 million,0.9,0.03,Y
+What was AEHR's Total Assets in 2023?,RAG,$98.14 million (USD),AEHR 2023 Total Assets: $98.14 million (USD).,0.95,0.57,Y
+What was AEHR's Total Assets in 2023?,Fine-Tune,$98.14 million (USD),$36.76 million,0.6,0.03,N
+What was AAGH's Total Assets in 2023?,RAG,$299.13 thousand (USD),AAGH 2023 Total Assets: $299.13 thousand (USD).,0.95,0.59,Y
+What was AAGH's Total Assets in 2023?,Fine-Tune,$299.13 thousand (USD),-$7.95 million,0.9,0.03,Y
+What was ADP's Net Income in 2024?,RAG,$3.75 billion (USD),ADP 2024 Net Income: $3.75 billion (USD).,0.95,0.62,Y
+What was ADP's Net Income in 2024?,Fine-Tune,$3.75 billion (USD),$2.11 billion,0.6,0.05,N
+What was AEHR's Net Income in 2024?,RAG,$33.16 million (USD),AEHR 2024 Net Income: $33.16 million (USD).,0.95,0.58,Y
+What was AEHR's Net Income in 2024?,Fine-Tune,$33.16 million (USD),-$8.72 million,0.9,0.03,Y

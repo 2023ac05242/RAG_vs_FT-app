@@ -1,0 +1,22 @@
+AFRM — Balance Sheet — Fiscal Year: 2024
+----------------------------------------
+ - Total Assets: 9519619000 USD
+ - Total Liabilities & Equity: 9519619000 USD
+ - Total Noncurrent Assets: 7048625000 USD
+ - Total Liabilities: 6787630000 USD
+ - Total Noncurrent Liabilities: 6415212000 USD
+ - Share Capital & Additional Paid-In Capital: 5862558000 USD
+ - Long Term Investments & Receivables: 5670056000 USD
+ - Long Term Debt: 3178339000 USD
+ - Retained Earnings: -3109004000 USD
+ - Total Equity: 2731989000 USD
+ - Total Current Assets: 2470994000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 2144734000 USD
+ - Other Long Term Assets: 950883000 USD
+ - Property, Plant & Equipment, Net: 427686000 USD
+ - Total Current Liabilities: 372418000 USD
+ - Shares (Basic): 309857129 USD
+ - Shares (Diluted): 309857129 USD
+ - Payables & Accruals: 212775000 USD
+ - Accounts & Notes Receivable: 43931000 USD
+ - SimFinId: 1242005 USD

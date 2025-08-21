@@ -1,0 +1,22 @@
+AAGH — Balance Sheet — Fiscal Year: 2023
+----------------------------------------
+ - Shares (Basic): 21093402806 USD
+ - Shares (Diluted): 21093402806 USD
+ - SimFinId: 12444287 USD
+ - Retained Earnings: -9028110 USD
+ - Share Capital & Additional Paid-In Capital: 4732477 USD
+ - Total Liabilities: 4669965 USD
+ - Total Equity: -4370836 USD
+ - Total Current Liabilities: 2903393 USD
+ - Total Noncurrent Liabilities: 1766572 USD
+ - Payables & Accruals: 1640999 USD
+ - Long Term Debt: 1524788 USD
+ - Short Term Debt: 727003 USD
+ - Total Assets: 299129 USD
+ - Total Liabilities & Equity: 299129 USD
+ - Total Current Assets: 187683 USD
+ - Total Noncurrent Assets: 111446 USD
+ - Inventories: 108351 USD
+ - Property, Plant & Equipment, Net: 57692 USD
+ - Cash, Cash Equivalents & Short Term Investments: 54150 USD
+ - Other Long Term Assets: 53754 USD

@@ -1,0 +1,14 @@
+AAGH — Cash Flow — Fiscal Year: 2024
+------------------------------------
+ - Shares (Basic): 21123253567 USD
+ - Shares (Diluted): 21123253567 USD
+ - SimFinId: 12444287 USD
+ - Net Income/Starting Line: -1226362 USD
+ - Net Cash from Financing Activities: 617403 USD
+ - Net Cash from Operating Activities: -615627 USD
+ - Change in Working Capital: 495402 USD
+ - Cash from (Repayment of) Debt: -190869 USD
+ - Cash from (Repurchase of) Equity: 115000 USD
+ - Non-Cash Items: 100544 USD
+ - Depreciation & Amortization: 14789 USD
+ - Net Change in Cash: 1776 USD

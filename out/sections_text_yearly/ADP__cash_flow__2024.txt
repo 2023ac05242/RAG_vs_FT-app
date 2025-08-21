@@ -1,0 +1,19 @@
+ADP — Cash Flow — Fiscal Year: 2024
+-----------------------------------
+ - Net Change in Long Term Investment: -6835300000 USD
+ - Net Cash from Operating Activities: 4157600000 USD
+ - Net Income/Starting Line: 3752000000 USD
+ - Dividends Paid: -2183100000 USD
+ - Net Cash from Financing Activities: -2034400000 USD
+ - Change in Working Capital: -1417400000 USD
+ - Net Change in Cash: 1314500000 USD
+ - Non-Cash Items: 1261100000 USD
+ - Cash from (Repurchase of) Equity: -1184500000 USD
+ - Net Cash from Investing Activities: -786300000 USD
+ - Depreciation & Amortization: 561900000 USD
+ - Change in Fixed Assets & Intangibles: -535100000 USD
+ - Shares (Diluted): 412200000 USD
+ - Shares (Basic): 410600000 USD
+ - Net Cash from Acquisitions & Divestitures: -33600000 USD
+ - Cash from (Repayment of) Debt: -900000 USD
+ - SimFinId: 591496 USD

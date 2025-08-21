@@ -1,0 +1,21 @@
+Question,Method,Answer,Confidence,Time (s),Correct (Y/N)
+What was AFRM's Net Income (Common) in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was AFRM's Net Income (Common) in 2024?,Fine-Tune,$1,0.6,0.1,N
+What was AAGH's Net Income in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was AAGH's Net Income in 2024?,Fine-Tune,$1,0.9,0.15,Y
+What was AAGH's Net Income in 2023?,RAG,Not applicable (guard),0.0,0.0,N
+What was AAGH's Net Income in 2023?,Fine-Tune,$1,0.9,0.1,Y
+What was ADP's Net Income/Starting Line in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was ADP's Net Income/Starting Line in 2024?,Fine-Tune,$11,0.6,0.14,N
+What was ADP's Total Liabilities & Equity in 2023?,RAG,Not applicable (guard),0.0,0.0,N
+What was ADP's Total Liabilities & Equity in 2023?,Fine-Tune,$33,0.6,0.19,N
+What was ADP's Operating Income (Loss) in 2023?,RAG,Not applicable (guard),0.0,0.0,N
+What was ADP's Operating Income (Loss) in 2023?,Fine-Tune,$10,0.6,0.08,N
+What was AAGH's Operating Income (Loss) in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was AAGH's Operating Income (Loss) in 2024?,Fine-Tune,$1,0.9,0.14,Y
+What was AAGH's Net Income/Starting Line in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was AAGH's Net Income/Starting Line in 2024?,Fine-Tune,$1,0.9,0.09,Y
+What was AFRM's Total Liabilities & Equity in 2024?,RAG,Not applicable (guard),0.0,0.0,N
+What was AFRM's Total Liabilities & Equity in 2024?,Fine-Tune,$7,0.6,0.14,N
+What was AFRM's Net Income in 2023?,RAG,Not applicable (guard),0.0,0.0,N
+What was AFRM's Net Income in 2023?,Fine-Tune,$0,0.6,0.21,N

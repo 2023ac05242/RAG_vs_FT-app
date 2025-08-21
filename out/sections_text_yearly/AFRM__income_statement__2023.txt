@@ -1,0 +1,19 @@
+AFRM — Income Statement — Fiscal Year: 2023
+-------------------------------------------
+ - Operating Expenses: -2429699000 USD
+ - Revenue: 1587985000 USD
+ - Gross Profit: 1404972000 USD
+ - Selling, General & Administrative: -1224678000 USD
+ - Operating Income (Loss): -1024727000 USD
+ - Pretax Income (Loss): -989245000 USD
+ - Net Income (Common): -985345000 USD
+ - Net Income: -985345000 USD
+ - Income (Loss) from Continuing Operations: -985345000 USD
+ - Pretax Income (Loss), Adj.: -813110000 USD
+ - Shares (Diluted): 295343466 USD
+ - Shares (Basic): 295343466 USD
+ - Non-Operating Income (Loss): 211617000 USD
+ - Cost of Revenue: -183013000 USD
+ - Abnormal Gains (Losses): -176135000 USD
+ - Income Tax (Expense) Benefit, Net: 3900000 USD
+ - SimFinId: 1242005 USD

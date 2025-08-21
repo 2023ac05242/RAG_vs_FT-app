@@ -1,0 +1,21 @@
+ADP — Income Statement — Fiscal Year: 2024
+------------------------------------------
+ - Revenue: 19202600000 USD
+ - Gross Profit: 10152500000 USD
+ - Cost of Revenue: -9050100000 USD
+ - Operating Expenses: -5205500000 USD
+ - Operating Income (Loss): 4947000000 USD
+ - Pretax Income (Loss), Adj.: 4872300000 USD
+ - Pretax Income (Loss): 4872300000 USD
+ - Selling, General & Administrative: -3778900000 USD
+ - Net Income (Common): 3752000000 USD
+ - Income (Loss) from Continuing Operations: 3752000000 USD
+ - Net Income: 3752000000 USD
+ - Income Tax (Expense) Benefit, Net: -1120300000 USD
+ - Research & Development: -955700000 USD
+ - Depreciation & Amortization: -470900000 USD
+ - Shares (Diluted): 412200000 USD
+ - Shares (Basic): 410600000 USD
+ - Interest Expense, Net: -361400000 USD
+ - Non-Operating Income (Loss): -74700000 USD
+ - SimFinId: 591496 USD

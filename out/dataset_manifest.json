@@ -1,0 +1,21 @@
+{
+  "years_required": [
+    2023,
+    2024
+  ],
+  "selected_tickers": [
+    "AAGH",
+    "ADP",
+    "AEHR",
+    "AFRM"
+  ],
+  "num_rows_financials": 418,
+  "num_sections_written": 24,
+  "num_qa_pairs": 376,
+  "files": [
+    "out/financials_last2y.csv",
+    "out/sections_text_yearly/<ticker>__<statement>__<year>.txt",
+    "out/qa_pairs.jsonl",
+    "out/qa_pairs.csv"
+  ]
+}

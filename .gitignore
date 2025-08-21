@@ -1,0 +1,49 @@
+# --- Virtual environments (your venv) ---
+conv2/
+.venv/
+venv/
+env/
+ENV/
+
+# --- If you accidentally vendor packages ---
+site-packages/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# --- Python caches/build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+dist/
+build/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Logs / temp / caches ---
+logs/
+*.log
+*.tmp
+.cache/
+
+# --- Data & artifacts you DON'T want tracked ---
+data/
+mlruns/
+mlartifacts/
+
+# --- FAISS / Streamlit misc ---
+.streamlit/
+**/faiss_index*
+**/index.faiss
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+!out/**
+!Out/**

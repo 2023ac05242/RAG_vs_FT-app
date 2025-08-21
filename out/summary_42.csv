@@ -1,0 +1,3 @@
+system,avg_time_s,accuracy_pct,avg_conf,conf_std,n
+FineTuned,0.041,70.0,0.73,0.109,10
+RAG,1.176,100.0,0.905,0.079,10

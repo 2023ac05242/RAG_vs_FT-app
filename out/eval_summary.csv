@@ -1,0 +1,3 @@
+Method,Accuracy,AvgConfidence,AvgTime_s
+Fine-Tune,0.4,0.72,0.134
+RAG,0.0,0.0,0.0

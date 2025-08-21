@@ -1,0 +1,18 @@
+AFRM — Cash Flow — Fiscal Year: 2023
+------------------------------------
+ - Non-Cash Items: 7007228000 USD
+ - Change in Working Capital: -6144336000 USD
+ - Net Cash from Investing Activities: -1653070000 USD
+ - Net Cash from Financing Activities: 1349945000 USD
+ - Cash from (Repayment of) Debt: 1093440000 USD
+ - Net Income/Starting Line: -985345000 USD
+ - Net Change in Long Term Investment: 455348000 USD
+ - Shares (Basic): 295343466 USD
+ - Shares (Diluted): 295343466 USD
+ - Net Change in Cash: -290863000 USD
+ - Depreciation & Amortization: 134634000 USD
+ - Change in Fixed Assets & Intangibles: -120775000 USD
+ - Net Cash from Acquisitions & Divestitures: -16051000 USD
+ - Cash from (Repurchase of) Equity: 15659000 USD
+ - Net Cash from Operating Activities: 12181000 USD
+ - SimFinId: 1242005 USD

@@ -1,0 +1,22 @@
+ADP — Balance Sheet — Fiscal Year: 2023
+---------------------------------------
+ - Total Liabilities & Equity: 50971000000 USD
+ - Total Assets: 50971000000 USD
+ - Total Liabilities: 47461900000 USD
+ - Total Current Liabilities: 42767600000 USD
+ - Total Current Assets: 42170600000 USD
+ - Retained Earnings: 22118000000 USD
+ - Treasury Stock: -18469300000 USD
+ - Total Noncurrent Assets: 8800400000 USD
+ - Other Long Term Assets: 8119000000 USD
+ - Total Noncurrent Liabilities: 4694300000 USD
+ - Payables & Accruals: 3935000000 USD
+ - Total Equity: 3509100000 USD
+ - Accounts & Notes Receivable: 3009600000 USD
+ - Long Term Debt: 2989000000 USD
+ - Share Capital & Additional Paid-In Capital: 2166200000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 2083500000 USD
+ - Property, Plant & Equipment, Net: 681400000 USD
+ - Shares (Diluted): 415700000 USD
+ - Shares (Basic): 413700000 USD
+ - SimFinId: 591496 USD

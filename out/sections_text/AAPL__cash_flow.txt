@@ -1,0 +1,36 @@
+AAPL — Cash Flow
+----------------
+Fiscal Year: 2022
+ - Net Cash from Operating Activities: 122151000000 USD
+ - Net Cash from Financing Activities: -110749000000 USD
+ - Net Income/Starting Line: 99803000000 USD
+ - Cash from (Repurchase of) Equity: -89402000000 USD
+ - Net Cash from Investing Activities: -22354000000 USD
+ - Shares (Diluted): 16325819000 USD
+ - Shares (Basic): 16215963000 USD
+ - Dividends Paid: -14841000000 USD
+ - Depreciation & Amortization: 11104000000 USD
+ - Net Change in Cash: -10952000000 USD
+ - Change in Fixed Assets & Intangibles: -10708000000 USD
+ - Non-Cash Items: 10044000000 USD
+ - Net Change in Long Term Investment: -9560000000 USD
+ - Change in Working Capital: 1200000000 USD
+ - Cash from (Repayment of) Debt: -123000000 USD
+ - SimFinId: 111052 USD
+Fiscal Year: 2023
+ - Net Cash from Operating Activities: 110543000000 USD
+ - Net Cash from Financing Activities: -108488000000 USD
+ - Net Income/Starting Line: 96995000000 USD
+ - Cash from (Repurchase of) Equity: -77550000000 USD
+ - Net Change in Long Term Investment: 16001000000 USD
+ - Shares (Diluted): 15812547000 USD
+ - Shares (Basic): 15744231000 USD
+ - Dividends Paid: -15025000000 USD
+ - Depreciation & Amortization: 11519000000 USD
+ - Change in Fixed Assets & Intangibles: -10959000000 USD
+ - Cash from (Repayment of) Debt: -9901000000 USD
+ - Non-Cash Items: 8606000000 USD
+ - Change in Working Capital: -6577000000 USD
+ - Net Change in Cash: 5760000000 USD
+ - Net Cash from Investing Activities: 3705000000 USD
+ - SimFinId: 111052 USD

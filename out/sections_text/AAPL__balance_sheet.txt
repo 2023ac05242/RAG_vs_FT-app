@@ -1,0 +1,44 @@
+AAPL — Balance Sheet
+--------------------
+Fiscal Year: 2022
+ - Total Assets: 352755000000 USD
+ - Total Liabilities & Equity: 352755000000 USD
+ - Total Liabilities: 302083000000 USD
+ - Total Noncurrent Assets: 217350000000 USD
+ - Total Current Liabilities: 153982000000 USD
+ - Total Noncurrent Liabilities: 148101000000 USD
+ - Total Current Assets: 135405000000 USD
+ - Long Term Investments & Receivables: 120805000000 USD
+ - Long Term Debt: 98959000000 USD
+ - Share Capital & Additional Paid-In Capital: 64849000000 USD
+ - Payables & Accruals: 64115000000 USD
+ - Other Long Term Assets: 54428000000 USD
+ - Total Equity: 50672000000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 48304000000 USD
+ - Property, Plant & Equipment, Net: 42117000000 USD
+ - Accounts & Notes Receivable: 28184000000 USD
+ - Short Term Debt: 21110000000 USD
+ - Shares (Diluted): 16325819000 USD
+ - Shares (Basic): 16215963000 USD
+ - Inventories: 4946000000 USD
+Fiscal Year: 2023
+ - Total Assets: 352583000000 USD
+ - Total Liabilities & Equity: 352583000000 USD
+ - Total Liabilities: 290437000000 USD
+ - Total Noncurrent Assets: 209017000000 USD
+ - Total Noncurrent Liabilities: 154951000000 USD
+ - Total Current Assets: 143566000000 USD
+ - Total Current Liabilities: 135486000000 USD
+ - Long Term Debt: 105103000000 USD
+ - Long Term Investments & Receivables: 100544000000 USD
+ - Share Capital & Additional Paid-In Capital: 73812000000 USD
+ - Other Long Term Assets: 64758000000 USD
+ - Payables & Accruals: 62611000000 USD
+ - Total Equity: 62146000000 USD
+ - Cash, Cash Equivalents & Short Term Investments: 61555000000 USD
+ - Property, Plant & Equipment, Net: 43715000000 USD
+ - Accounts & Notes Receivable: 29508000000 USD
+ - Shares (Diluted): 15812547000 USD
+ - Shares (Basic): 15744231000 USD
+ - Inventories: 6331000000 USD
+ - Short Term Debt: 5985000000 USD

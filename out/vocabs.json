@@ -1,0 +1,45 @@
+{
+  "created_at": "2025-08-21 20:41:33",
+  "key2id": {
+    "cash & equivalents": 0,
+    "cost of revenue": 1,
+    "gross profit": 2,
+    "net income": 3,
+    "revenue": 4,
+    "total assets": 5,
+    "total liabilities": 6
+  },
+  "key_vocab": [
+    "cash & equivalents",
+    "cost of revenue",
+    "gross profit",
+    "net income",
+    "revenue",
+    "total assets",
+    "total liabilities"
+  ],
+  "max_len": 128,
+  "schema_version": 1,
+  "ticker2id": {
+    "AAGH": 0,
+    "ADP": 1,
+    "AEHR": 2,
+    "AFRM": 3
+  },
+  "ticker_vocab": [
+    "AAGH",
+    "ADP",
+    "AEHR",
+    "AFRM"
+  ],
+  "year2id": {
+    "2023": 0,
+    "2024": 1
+  },
+  "year_vocab": [
+    2023,
+    2024
+  ],
+  "z_mean": 0.30430012941360474,
+  "z_std": 0.6026221513748169
+}
