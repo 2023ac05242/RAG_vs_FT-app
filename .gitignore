@@ -22,6 +22,7 @@ dist/
 build/
 
 # --- Notebooks ---
+*.ipynb
 .ipynb_checkpoints/
 
 # --- Logs / temp / caches ---
