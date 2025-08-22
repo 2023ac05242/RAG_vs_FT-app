@@ -64,11 +64,12 @@ else:
     print("[info] CPU")
 
 
+# --- GitHub write helpers (drop-in) ------------------------------------------
 import os, io, json, base64, requests
 import pandas as pd
 
 def _get(key, default=None):
-    # read from env first (since this script is a subprocess), fall back to Streamlit secrets if available
+    # read from env first (subprocess), fall back to Streamlit secrets if available
     v = os.getenv(key)
     if v not in (None, ""):
         return v
@@ -78,11 +79,12 @@ def _get(key, default=None):
     except Exception:
         return default
 
-GH_OWNER     = _get("GH_OWNER")
-GH_REPO      = _get("GH_REPO")
-GH_BRANCH    = _get("GH_BRANCH", "main")
-GH_TOKEN     = _get("GH_TOKEN") or _get("GITHUB_TOKEN")  # support either name
-GH_BASE_PATH = _get("GH_BASE_PATH", "out")
+# IMPORTANT: split owner/repo correctly. GH_REPO must be the repo name ONLY.
+GH_OWNER      = _get("GH_OWNER",  "2023ac05242")
+GH_REPO       = _get("GH_REPO",   "RAG_vs_FT-app")   # <-- NOT "owner/repo"
+GH_BRANCH     = _get("GH_BRANCH", "main")
+GH_BASE_PATH  = (_get("GH_BASE_PATH", "out") or "").strip("/")
+GH_TOKEN      = _get("GH_TOKEN") or _get("GITHUB_TOKEN")  # support either name
 
 def _gh_headers():
     h = {
@@ -96,44 +98,51 @@ def _gh_headers():
 
 def _gh_contents_url(relpath: str) -> str:
     relpath = relpath.lstrip("/")
-    return f"https://api.github.com/repos/{GH_OWNER}/{GH_REPO}/contents/{relpath}"
+    base = f"{GH_BASE_PATH}/" if GH_BASE_PATH else ""
+    return f"https://api.github.com/repos/{GH_OWNER}/{GH_REPO}/contents/{base}{relpath}"
 
 def _gh_get_sha(relpath: str):
-    url = _gh_contents_url(relpath) + f"?ref={GH_BRANCH}"
-    r = requests.get(url, headers=_gh_headers(), timeout=60)
+    # check if file already exists to include its SHA on update
+    url = _gh_contents_url(relpath)
+    r = requests.get(url, headers=_gh_headers(), params={"ref": GH_BRANCH}, timeout=60)
     if r.status_code == 200:
         return r.json().get("sha")
-    if r.status_code == 404:
+    if r.status_code in (404, 409):
         return None
     r.raise_for_status()
 
-def _gh_put_file(relpath: str, content_bytes: bytes, message: str):
-    b64 = base64.b64encode(content_bytes).decode("ascii")
-    payload = {"message": message, "content": b64, "branch": GH_BRANCH}
+def _gh_put_file(relpath: str, content_bytes: bytes, message: str = None):
+    b64 = base64.b64encode(content_bytes).decode("utf-8")
+    payload = {"message": message or f"Update {relpath}", "content": b64, "branch": GH_BRANCH}
     sha = _gh_get_sha(relpath)
     if sha:
         payload["sha"] = sha
-    name  = _get("GH_COMMITTER_NAME")
-    email = _get("GH_COMMITTER_EMAIL")
-    if name and email:
-        payload["committer"] = {"name": name, "email": email}
+    if GH_COMMITTER_NAME and GH_COMMITTER_EMAIL:
+        payload["committer"] = {"name": GH_COMMITTER_NAME, "email": GH_COMMITTER_EMAIL}
     url = _gh_contents_url(relpath)
-    r = requests.put(url, headers=_gh_headers(), data=json.dumps(payload), timeout=60)
+    r = requests.put(url, headers=_gh_headers(), json=payload, timeout=60)
     if r.status_code not in (200, 201):
-        raise RuntimeError(f"GitHub write failed ({r.status_code}): {r.text[:300]}")
+        raise RuntimeError(
+            f"GitHub write failed ({r.status_code}): {r.text[:400]}"
+        )
     return r.json()
 
 def gh_write_csv(df: pd.DataFrame, relpath: str, message: str = None):
+    """
+    Writes df as CSV into GH_OWNER/GH_REPO on GH_BRANCH under GH_BASE_PATH.
+    Pass just the filename (e.g., 'df_extended_view.csv'); GH_BASE_PATH is prepended.
+    """
     buf = io.StringIO()
     df.to_csv(buf, index=False)
-    rel = relpath if GH_BASE_PATH in ("", None) else f"{GH_BASE_PATH.rstrip('/')}/{relpath.lstrip('/')}"
-    return _gh_put_file(rel, buf.getvalue().encode("utf-8"), message or f"Update {rel}")
+    return _gh_put_file(relpath, buf.getvalue().encode("utf-8"), message)
 
 def _gh_preflight():
-    # Safe diagnostics printed to your "save_table.py logs" expander
+    # Safe diagnostics (shows in your "save_table.py logs" expander)
     print("=== GitHub preflight ===")
     print(f"GH_OWNER={GH_OWNER!r} GH_REPO={GH_REPO!r} GH_BRANCH={GH_BRANCH!r} GH_BASE_PATH={GH_BASE_PATH!r}")
     print(f"GH_TOKEN_present={bool(GH_TOKEN)}")  # don't print the token itself
+    if GH_REPO and "/" in GH_REPO:
+        raise RuntimeError("GH_REPO must be just the repo name (e.g., 'RAG_vs_FT-app'), not 'owner/repo'. Set GH_OWNER separately.")
 
     # 1) Is the token valid?
     r_user = requests.get("https://api.github.com/user", headers=_gh_headers(), timeout=30)
@@ -164,9 +173,8 @@ def _gh_preflight():
             "(often 'main' or 'master') in Streamlit Secrets."
         )
     if r_user.status_code != 200:
-        raise RuntimeError(
-            "PAT looks invalid/expired. Regenerate and set GH_TOKEN in Streamlit Secrets."
-        )
+        raise RuntimeError("PAT looks invalid/expired. Regenerate and set GH_TOKEN in Streamlit Secrets.")
+# ----------------------------------------------------------------------------- 
 
 
 # --- Repo-aware base paths (PATHS ONLY; no logic changes) ---
