@@ -1,24 +1,24 @@
 Question,Method,Real Answer,Answer,Confidence,Time (s),Correct (Y/N)
-What was ADP's Revenue in 2024?,RAG,$19.20 billion,$19.20 billion,0.98,0.406,Y
-What was ADP's Revenue in 2024?,FineTuned,$19.20 billion,$19.51 billion,0.8,0.037,Y
-What was ADP's Gross Profit in 2023?,RAG,$9.35 billion,$9.35 billion,0.98,1.073,Y
-What was ADP's Gross Profit in 2023?,FineTuned,$9.35 billion,$8.12 billion,0.8,0.436,Y
-What was AFRM's Total Liabilities in 2024?,RAG,$6.79 billion,$6.79 billion,0.98,0.485,Y
-What was AFRM's Total Liabilities in 2024?,FineTuned,$6.79 billion,$7.04 billion,0.8,0.017,Y
-What was AEHR's Revenue in 2024?,RAG,$66.22 million,$66.22 million,0.98,2.499,Y
-What was AEHR's Revenue in 2024?,FineTuned,$66.22 million,$21.50 million,0.8,0.011,Y
-What was AAGH's Net Income in 2023?,RAG,-$761.42 thousand,-$761.42 thousand,0.83,1.099,Y
-What was AAGH's Net Income in 2023?,FineTuned,-$761.42 thousand,-$52.85 million,0.75,0.025,N
-What was AFRM's operating cash flow in 2023?,RAG,$12.18 million,$12.18 million,0.83,1.063,Y
-What was AFRM's operating cash flow in 2023?,FineTuned,$12.18 million,$1.31 billion,0.65,0.015,N
-"In 2023, what was ADP's Total Equity (Balance Sheet)?",RAG,$3.51 billion,$3.51 billion,0.83,1.517,Y
-"In 2023, what was ADP's Total Equity (Balance Sheet)?",FineTuned,$3.51 billion,$32.78 billion,0.6,0.936,N
-What was AEHR's Gross Profit in 2023?,RAG,$32.75 million,$32.75 million,0.83,0.59,Y
-What was AEHR's Gross Profit in 2023?,FineTuned,$32.75 million,$5.87 million,0.8,0.019,Y
-What was AFRM's Revenue in 2024?,RAG,$2.32 billion,$2.32 billion,0.98,1.832,Y
-What was AFRM's Revenue in 2024?,FineTuned,$2.32 billion,$2.32 billion,0.8,0.012,Y
-What was ADP's Total Assets in 2024?,RAG,$54.36 billion,$54.36 billion,0.83,1.911,Y
-What was ADP's Total Assets in 2024?,FineTuned,$54.36 billion,$63.51 billion,0.49999999999999994,0.665,Y
+What was ADP's Revenue in 2024?,RAG,$19.20 billion,$19.20 billion,0.98,1.664,Y
+What was ADP's Revenue in 2024?,FineTuned,$19.20 billion,$19.51 billion,0.8,0.014,Y
+What was ADP's Gross Profit in 2023?,RAG,$9.35 billion,$9.35 billion,0.98,1.748,Y
+What was ADP's Gross Profit in 2023?,FineTuned,$9.35 billion,$8.12 billion,0.8,0.012,Y
+What was AFRM's Total Liabilities in 2024?,RAG,$6.79 billion,$6.79 billion,0.98,0.55,Y
+What was AFRM's Total Liabilities in 2024?,FineTuned,$6.79 billion,$7.04 billion,0.8,0.745,Y
+What was AEHR's Revenue in 2024?,RAG,$66.22 million,$66.22 million,0.98,1.636,Y
+What was AEHR's Revenue in 2024?,FineTuned,$66.22 million,$21.50 million,0.8,0.015,Y
+What was AAGH's Net Income in 2023?,RAG,-$761.42 thousand,-$761.42 thousand,0.83,0.961,Y
+What was AAGH's Net Income in 2023?,FineTuned,-$761.42 thousand,-$52.85 million,0.75,0.016,N
+What was AFRM's operating cash flow in 2023?,RAG,$12.18 million,$12.18 million,0.83,1.123,Y
+What was AFRM's operating cash flow in 2023?,FineTuned,$12.18 million,$1.31 billion,0.65,0.011,N
+"In 2023, what was ADP's Total Equity (Balance Sheet)?",RAG,$3.51 billion,$3.51 billion,0.83,2.397,Y
+"In 2023, what was ADP's Total Equity (Balance Sheet)?",FineTuned,$3.51 billion,$32.78 billion,0.6,0.075,N
+What was AEHR's Gross Profit in 2023?,RAG,$32.75 million,$32.75 million,0.83,0.643,Y
+What was AEHR's Gross Profit in 2023?,FineTuned,$32.75 million,$5.87 million,0.8,0.651,Y
+What was AFRM's Revenue in 2024?,RAG,$2.32 billion,$2.32 billion,0.98,1.252,Y
+What was AFRM's Revenue in 2024?,FineTuned,$2.32 billion,$2.32 billion,0.8,0.011,Y
+What was ADP's Total Assets in 2024?,RAG,$54.36 billion,$54.36 billion,0.83,2.789,Y
+What was ADP's Total Assets in 2024?,FineTuned,$54.36 billion,$63.51 billion,0.49999999999999994,0.012,Y
 What is the capital of France?,RAG,-,Data not in scope,0.0,0.0,N
 What is the capital of France?,FineTuned,-,Not applicable,0.0,0.0,N
 Who won the 2018 FIFA World Cup?,RAG,-,Data not in scope,0.0,0.0,N
