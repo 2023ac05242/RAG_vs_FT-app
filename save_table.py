@@ -2726,7 +2726,7 @@ gh_write_csv(to_report(df_official),"df_official.csv")
 # ===== 4.1 summary =====
 summary_41 = compare_speed_accuracy(df_official, include_irrelevant=False)
 #summary_41.to_csv(os.path.join(OUT_DIR, "summary_41.csv"), index=False)
-gh_write_csv(to_report(summary_41),"summary_41.csv")
+gh_write_csv(summary_41,"summary_41.csv")
 
 
 
