@@ -1179,6 +1179,16 @@ with colR:
             ss["eval_msg"] = "save_table.py not found next to app.py."
             return
         env = os.environ.copy(); env["PYTHONIOENCODING"] = "utf-8"
+        # pass GitHub settings to the save_table.py process
+        env["GH_TOKEN"]     = GH_TOKEN or ""
+        env["GH_OWNER"]     = GH_OWNER
+        env["GH_REPO"]      = GH_REPO
+        env["GH_BRANCH"]    = GH_BRANCH
+        env["GH_BASE_PATH"] = "out"  # or whatever folder you want in the repo
+        # optional committer (nice to have)
+        env["GH_COMMITTER_NAME"]  = os.getenv("GH_COMMITTER_NAME", "streamlit-bot")
+        env["GH_COMMITTER_EMAIL"] = os.getenv("GH_COMMITTER_EMAIL", "streamlit@example.com")
+
         try:
             proc = subprocess.run([sys.executable, script], cwd=base_dir, capture_output=True, text=True, shell=False, timeout=1200, env=env)
             ss["save_log"] = (proc.stdout or "") + "\n" + (proc.stderr or "")
@@ -1217,3 +1227,4 @@ with colR:
     if ss.get("save_log"):
         with st.expander("save_table.py logs"):
             st.text(ss["save_log"])
+
