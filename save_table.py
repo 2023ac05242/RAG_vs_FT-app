@@ -64,6 +64,69 @@ else:
     print("[info] CPU")
 
 
+import os, io, json, base64, requests
+import pandas as pd
+
+def _get(key, default=None):
+    # read from env first (since this script is a subprocess), fall back to Streamlit secrets if available
+    v = os.getenv(key)
+    if v not in (None, ""):
+        return v
+    try:
+        import streamlit as st
+        return st.secrets[key]
+    except Exception:
+        return default
+
+GH_OWNER     = _get("GH_OWNER")
+GH_REPO      = _get("GH_REPO")
+GH_BRANCH    = _get("GH_BRANCH", "main")
+GH_TOKEN     = _get("GH_TOKEN") or _get("GITHUB_TOKEN")  # support either name
+GH_BASE_PATH = _get("GH_BASE_PATH", "out")
+
+def _gh_headers():
+    h = {"Accept":"application/vnd.github+json","User-Agent":"streamlit-app"}
+    if GH_TOKEN:
+        h["Authorization"] = f"Bearer {GH_TOKEN}"
+    return h
+
+def _gh_contents_url(relpath: str) -> str:
+    relpath = relpath.lstrip("/")
+    return f"https://api.github.com/repos/{GH_OWNER}/{GH_REPO}/contents/{relpath}"
+
+def _gh_get_sha(relpath: str):
+    url = _gh_contents_url(relpath) + f"?ref={GH_BRANCH}"
+    r = requests.get(url, headers=_gh_headers(), timeout=60)
+    if r.status_code == 200:
+        return r.json().get("sha")
+    if r.status_code == 404:
+        return None
+    r.raise_for_status()
+
+def _gh_put_file(relpath: str, content_bytes: bytes, message: str):
+    b64 = base64.b64encode(content_bytes).decode("ascii")
+    payload = {"message": message, "content": b64, "branch": GH_BRANCH}
+    sha = _gh_get_sha(relpath)
+    if sha:
+        payload["sha"] = sha
+    name  = _get("GH_COMMITTER_NAME")
+    email = _get("GH_COMMITTER_EMAIL")
+    if name and email:
+        payload["committer"] = {"name": name, "email": email}
+    url = _gh_contents_url(relpath)
+    r = requests.put(url, headers=_gh_headers(), data=json.dumps(payload), timeout=60)
+    if r.status_code not in (200, 201):
+        raise RuntimeError(f"GitHub write failed ({r.status_code}): {r.text[:300]}")
+    return r.json()
+
+def gh_write_csv(df: pd.DataFrame, relpath: str, message: str = None):
+    buf = io.StringIO()
+    df.to_csv(buf, index=False)
+    rel = relpath if GH_BASE_PATH in ("", None) else f"{GH_BASE_PATH.rstrip('/')}/{relpath.lstrip('/')}"
+    return _gh_put_file(rel, buf.getvalue().encode("utf-8"), message or f"Update {rel}")
+
+
+
 # --- Repo-aware base paths (PATHS ONLY; no logic changes) ---
 # Set REPO_ROOT to your local GitHub repo clone (absolute or relative).
 # If you run the notebook from inside the repo root, this default is fine.
@@ -2852,15 +2915,21 @@ df_extended_view = (
 )
 
 
-df_extended_view.to_csv(os.path.join(OUT_DIR, "df_extended_view.csv"), index=False)
+# df_extended_view.to_csv(os.path.join(OUT_DIR, "df_extended_view.csv"), index=False)
+gh_write_csv(df_extended_view,"df_extended_view.csv", index=False)
 
 
 
 # ===== 4.2 summary =====
 summary_42 = compare_speed_accuracy(df_extended, include_irrelevant=False)
-summary_42.to_csv(os.path.join(OUT_DIR, "summary_42.csv"), index=False)
+# summary_42.to_csv(os.path.join(OUT_DIR, "summary_42.csv"), index=False)
+gh_write_csv(summary_42,"summary_42.csv", index=False)
+
 
 
 pair_42 = pairwise_table(summary_42)
 if pair_42 is not None:
-    pair_42.to_csv(os.path.join(OUT_DIR, "pair_42.csv"), index=False)
+    # pair_42.to_csv(os.path.join(OUT_DIR, "pair_42.csv"), index=False)
+    gh_write_csv(pair_42,"pair_42.csv", index=False)
+
+
