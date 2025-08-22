@@ -2664,12 +2664,15 @@ official = [
 df_official = run_official(official, ft_tol_rel=0.23, ft_tol_abs=5e7)
 
 # (optional) save
-to_report(df_official).to_csv(os.path.join(OUT_DIR, "df_official.csv"), index=False)
+#to_report(df_official).to_csv(os.path.join(OUT_DIR, "df_official.csv"), index=False)
+gh_write_csv(to_report(df_official),"df_official.csv")
+
 
 
 # ===== 4.1 summary =====
 summary_41 = compare_speed_accuracy(df_official, include_irrelevant=False)
-summary_41.to_csv(os.path.join(OUT_DIR, "summary_41.csv"), index=False)
+#summary_41.to_csv(os.path.join(OUT_DIR, "summary_41.csv"), index=False)
+gh_write_csv(to_report(summary_41),"summary_41.csv")
 
 
 
@@ -2916,20 +2919,18 @@ df_extended_view = (
 
 
 # df_extended_view.to_csv(os.path.join(OUT_DIR, "df_extended_view.csv"), index=False)
-gh_write_csv(df_extended_view,"df_extended_view.csv", index=False)
+gh_write_csv(df_extended_view,"df_extended_view.csv")
 
 
 
 # ===== 4.2 summary =====
 summary_42 = compare_speed_accuracy(df_extended, include_irrelevant=False)
 # summary_42.to_csv(os.path.join(OUT_DIR, "summary_42.csv"), index=False)
-gh_write_csv(summary_42,"summary_42.csv", index=False)
+gh_write_csv(summary_42,"summary_42.csv")
 
 
 
 pair_42 = pairwise_table(summary_42)
 if pair_42 is not None:
     # pair_42.to_csv(os.path.join(OUT_DIR, "pair_42.csv"), index=False)
-    gh_write_csv(pair_42,"pair_42.csv", index=False)
-
-
+    gh_write_csv(pair_42,"pair_42.csv")
