@@ -85,7 +85,11 @@ GH_TOKEN     = _get("GH_TOKEN") or _get("GITHUB_TOKEN")  # support either name
 GH_BASE_PATH = _get("GH_BASE_PATH", "out")
 
 def _gh_headers():
-    h = {"Accept":"application/vnd.github+json","User-Agent":"streamlit-app"}
+    h = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "streamlit-app",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
     if GH_TOKEN:
         h["Authorization"] = f"Bearer {GH_TOKEN}"
     return h
@@ -125,6 +129,44 @@ def gh_write_csv(df: pd.DataFrame, relpath: str, message: str = None):
     rel = relpath if GH_BASE_PATH in ("", None) else f"{GH_BASE_PATH.rstrip('/')}/{relpath.lstrip('/')}"
     return _gh_put_file(rel, buf.getvalue().encode("utf-8"), message or f"Update {rel}")
 
+def _gh_preflight():
+    # Safe diagnostics printed to your "save_table.py logs" expander
+    print("=== GitHub preflight ===")
+    print(f"GH_OWNER={GH_OWNER!r} GH_REPO={GH_REPO!r} GH_BRANCH={GH_BRANCH!r} GH_BASE_PATH={GH_BASE_PATH!r}")
+    print(f"GH_TOKEN_present={bool(GH_TOKEN)}")  # don't print the token itself
+
+    # 1) Is the token valid?
+    r_user = requests.get("https://api.github.com/user", headers=_gh_headers(), timeout=30)
+    print("whoami_status", r_user.status_code)
+
+    # 2) Can the token see the repo?
+    r_repo = requests.get(f"https://api.github.com/repos/{GH_OWNER}/{GH_REPO}", headers=_gh_headers(), timeout=30)
+    print("repo_status", r_repo.status_code)
+
+    # 3) Does the branch exist?
+    r_branch = requests.get(
+        f"https://api.github.com/repos/{GH_OWNER}/{GH_REPO}/branches/{GH_BRANCH}",
+        headers=_gh_headers(), timeout=30
+    )
+    print("branch_status", r_branch.status_code)
+
+    # Clear, actionable errors
+    if r_repo.status_code == 404:
+        raise RuntimeError(
+            "Your token can’t see this repository. For a fine-grained PAT: "
+            "Resource owner = GH_OWNER; Repository access = Only select repositories -> GH_REPO; "
+            "Permissions -> Repository contents = Read & write, Metadata = Read-only. "
+            "If the repo is in an organization, an org admin must approve the token."
+        )
+    if r_branch.status_code == 404:
+        raise RuntimeError(
+            f"Branch {GH_BRANCH!r} does not exist. Set GH_BRANCH to the repo’s actual default branch "
+            "(often 'main' or 'master') in Streamlit Secrets."
+        )
+    if r_user.status_code != 200:
+        raise RuntimeError(
+            "PAT looks invalid/expired. Regenerate and set GH_TOKEN in Streamlit Secrets."
+        )
 
 
 # --- Repo-aware base paths (PATHS ONLY; no logic changes) ---
@@ -2662,6 +2704,8 @@ official = [
 
 # ---------- Run + display ----------
 df_official = run_official(official, ft_tol_rel=0.23, ft_tol_abs=5e7)
+
+_gh_preflight()
 
 # (optional) save
 #to_report(df_official).to_csv(os.path.join(OUT_DIR, "df_official.csv"), index=False)
