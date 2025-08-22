@@ -1,7 +1,7 @@
 Question,Method,Answer,Confidence,Time (s),Correct (Y/N)
-What was ADP's Revenue in 2024?,RAG,$19.20 billion,0.98,3.64,Y
-What was ADP's Revenue in 2024?,Fine-Tune,$19.51 billion,0.8,0.03,Y
-What was AAGH's Net Income in 2023?,RAG,-$761.42 thousand,0.83,0.56,Y
+What was ADP's Revenue in 2024?,RAG,$19.20 billion,0.98,0.92,Y
+What was ADP's Revenue in 2024?,Fine-Tune,$19.51 billion,0.8,0.01,Y
+What was AAGH's Net Income in 2023?,RAG,-$761.42 thousand,0.83,0.37,Y
 What was AAGH's Net Income in 2023?,Fine-Tune,-$52.85 million,0.75,0.01,N
 What is the capital of France?,RAG,Data not in scope,0.0,0.0,N
 What is the capital of France?,Fine-Tune,Not applicable,0.0,0.0,N
