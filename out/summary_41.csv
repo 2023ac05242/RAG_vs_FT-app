@@ -1,3 +1,3 @@
 system,avg_time_s,accuracy_pct,avg_conf,conf_std,n
-Fine-Tune,0.01,50.0,0.775,0.035,2
-RAG,0.645,100.0,0.905,0.106,2
+Fine-Tune,0.015,50.0,0.775,0.035,2
+RAG,1.13,100.0,0.905,0.106,2
