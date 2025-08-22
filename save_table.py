@@ -85,6 +85,8 @@ GH_REPO       = _get("GH_REPO",   "RAG_vs_FT-app")   # <-- NOT "owner/repo"
 GH_BRANCH     = _get("GH_BRANCH", "main")
 GH_BASE_PATH  = (_get("GH_BASE_PATH", "out") or "").strip("/")
 GH_TOKEN      = _get("GH_TOKEN") or _get("GITHUB_TOKEN")  # support either name
+GH_COMMITTER_NAME  = _get("GH_COMMITTER_NAME")  # optional
+GH_COMMITTER_EMAIL = _get("GH_COMMITTER_EMAIL") # optional
 
 def _gh_headers():
     h = {
