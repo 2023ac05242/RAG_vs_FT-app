@@ -1,4 +1,4 @@
 Metric,RAG,FineTuned,FT faster by (%),FT - RAG (pp),FT - RAG (Δ conf)
-Avg Time (s),1.248,0.217,82.6,,
+Avg Time (s),1.476,0.156,89.4,,
 Accuracy (%),100.0,70.0,,-30.0,
 Confidence (avg),0.905,0.73,,,-0.175
